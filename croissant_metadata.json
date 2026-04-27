@@ -1,0 +1,143 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataBiases": "cr:dataBiases",
+    "dataCollection": "cr:dataCollection",
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isEnumeration": "cr:isEnumeration",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "personalSensitiveInformation": "cr:personalSensitiveInformation",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform"
+  },
+  "@type": "sc:Dataset",
+  "name": "A_Temporal_Knowledge_Graph_for_Music_Festival_Lineup_Forecasting",
+  "description": "Predicting lineups for future festivals has practical value for organizers, booking agencies, and audiences: It can support booking decisions, lineup planning, and early ticket purchasing. Festival lineups emerge from complex relationships among artists, genres, releases, labels, and past performances, making this a natural fit for temporal Knowledge Graph (TKG) modeling. We present a TKG covering 380 music festivals over 55 years. The TKG includes information on festivals, artist tours, and artist metadata.",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "citeAs": "@misc{madata822, title = {A Temporal Knowledge Graph for Music Festival Lineup Forecasting}, year = {2026}, author = {Julia Gastinger and Thilo Dieing and Christian Meilicke and Heiner Stuckenschmidt}, keywords = {Cultural Event Prediction; Temporal Knowledge Graphs; Temporal Knowledge Graph Forecasting}, url = {https://madata.bib.uni-mannheim.de/822/}, type = {dataset}}",
+  "license": "https://opensource.org/licenses/MIT",
+  "url": "https://madata.bib.uni-mannheim.de/822/",
+  "version": "1.0.0",
+  "datePublished": "2026-04-27",
+  "creator": {
+    "@type": "Person",
+    "name": "Julia Gastinger"
+  },
+  "cr:dataCollection": "We initially fetch information on all festivals, their editions, venues, countries, and associated artists from setlist.fm. To ensure the resulting TKG remains computationally tractable, we restrict our scope to festivals held in Germany. To focus on established festivals, we apply the following filtering criteria: Festivals must have occurred at least 5 times, each festival edition must feature at least 10 artists, and the festivals must have featured at least 30 unique artists across all editions. These filters reduce our dataset to 380 festivals. For each artist appearing at these festivals, we extract additional concert data from setlist.fm, including all concert dates, venues, and venue locations. We enrich the artist information with metadata from MusicBrainz via their API, extracting founding and geographic information, artist types, label relationships, and release history where available. Festival information was fetched from setlist.fm on December 16th 2025, concert performance data on February 9th 2026, and metainformation from MusicBrainz on February 14th 2026.",
+  "cr:dataBiases": "We excluded additional contextual information that human experts might leverage, such as: unstructured data from news and announcements regarding artist breaks, recording schedules, or tour cancellations; music-specific details like instrumentation, setlist compositions, or acoustic characteristics; economic factors like ticket prices, venue capacities, and budget constraints.",
+  "cr:personalSensitiveInformation": "The dataset contains publicly available information about music artists and festivals sourced from setlist.fm and MusicBrainz. No private or sensitive personal information is included.",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "tkgl-concert_edgelist_file",
+      "name": "tkgl-concert_edgelist.csv",
+      "description": "Edge list containing all quadruples of the temporal knowledge graph, with columns for timestamp, head entity, tail entity, and relation type.",
+      "contentUrl": "https://madata.bib.uni-mannheim.de/822/",
+      "encodingFormat": "text/csv",
+      "sha256": "DC90B08BA0A19C72DA13E071CB2928FFF6CA3A4528CA3652247A3007BF96F4EE"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "tkgl-concert_edgelist_record_set",
+      "name": "tkgl-concert_edgelist.csv_record_set",
+      "description": "An edge list containing all quadruples of the temporal knowledge graph.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "tkgl-concert_edgelist_record_set/timestamp",
+          "name": "timestamp",
+          "description": "Timestamp of the quadruple, starting at 0, representing years from 1971 onwards.",
+          "dataType": "sc:Float",
+          "source": {
+            "fileObject": {
+              "@id": "tkgl-concert_edgelist_file"
+            },
+            "extract": {
+              "column": "timestamp"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tkgl-concert_edgelist_record_set/head",
+          "name": "head",
+          "description": "Head entity (subject) of the quadruple, a string representing a music artist or festival.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "tkgl-concert_edgelist_file"
+            },
+            "extract": {
+              "column": "head"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tkgl-concert_edgelist_record_set/tail",
+          "name": "tail",
+          "description": "Tail entity (object) of the quadruple, a string representing a music artist, festival, venue, or other entity.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "tkgl-concert_edgelist_file"
+            },
+            "extract": {
+              "column": "tail"
+            }
+          }
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "tkgl-concert_edgelist_record_set/relation_type",
+          "name": "relation_type",
+          "description": "Relation type of the quadruple, a string representing the relation between head and tail entities in the temporal knowledge graph.",
+          "dataType": "sc:Text",
+          "source": {
+            "fileObject": {
+              "@id": "tkgl-concert_edgelist_file"
+            },
+            "extract": {
+              "column": "relation_type"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
