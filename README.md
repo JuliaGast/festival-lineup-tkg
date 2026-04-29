@@ -13,6 +13,8 @@ The final datasets can be found at MADATA: https://madata.bib.uni-mannheim.de/82
 The following information is for the creation of the dataset.
 If you directly want to run the Forecasting experiments, you can go to folder forecasting. Since the final datasets are stored on MADATA, you do not need to re-create them.
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # Part 1: Dataset creation
 
 ## TODO before running the data creation script
