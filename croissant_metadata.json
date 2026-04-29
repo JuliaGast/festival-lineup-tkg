@@ -48,7 +48,7 @@
   "description": "Predicting lineups for future festivals has practical value for organizers, booking agencies, and audiences: It can support booking decisions, lineup planning, and early ticket purchasing. Festival lineups emerge from complex relationships among artists, genres, releases, labels, and past performances, making this a natural fit for temporal Knowledge Graph (TKG) modeling. We present a TKG covering 380 music festivals over 55 years. The TKG includes information on festivals, artist tours, and artist metadata.",
   "conformsTo": "http://mlcommons.org/croissant/1.0",
   "citeAs": "@misc{madata822, title = {A Temporal Knowledge Graph for Music Festival Lineup Forecasting}, year = {2026}, author = {Julia Gastinger and Thilo Dieing and Christian Meilicke and Heiner Stuckenschmidt}, keywords = {Cultural Event Prediction; Temporal Knowledge Graphs; Temporal Knowledge Graph Forecasting}, url = {https://madata.bib.uni-mannheim.de/822/}, type = {dataset}}",
-  "license": "https://opensource.org/licenses/MIT",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "url": "https://madata.bib.uni-mannheim.de/822/",
   "version": "1.0.0",
   "datePublished": "2026-04-27",
