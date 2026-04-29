@@ -1,0 +1,6 @@
+pyyaml
+numpy
+beautifulsoup4
+requests
+musicbrainzngs-0.7.1
+pycountry
