@@ -1,0 +1,1073 @@
+ARTIST:Myrkur	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Jerry_Cantrell	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:AnnenMayKantereit	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Formosa	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Bendik_Giske	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Chloe_Slater	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Simon_McBride	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Fateful_Finality	performs_at_festival	FESTIVAL:No Playback Festival	2025
+ARTIST:Bloody_Dead_and_Sexy	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Bring_Me_the_Horizon	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Botticelli_Baby	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Heldmaschine	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Stiff_Little_Fingers	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Servant	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:The_Corrs	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:The_Prodigy	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:BABYJOY	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:Wisborg	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Inner_Circle	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Boston_Manor	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Cold_Snap	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Iron_Griffin	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Willkuer	performs_at_festival	FESTIVAL:G.O.N.D.	2025
+ARTIST:Lady_Beast	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Shaytan	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2025
+ARTIST:Acht_Eimer_Hühnerherzen	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Soffie	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Jimmy_Eat_World	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:BHZ	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Culcha_Candela	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Tankard	performs_at_festival	FESTIVAL:No Playback Festival	2025
+ARTIST:WarWolf	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Jorja_Smith	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:SKYND	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Zaz	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Mr._Vegas	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Wings_of_Steel	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Alien_Force	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:[x]-Rx	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Kris_Barras_Band	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:PRAYERS	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Dilla	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:K.I.Z	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Julian_Sas	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Royel_Otis	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Madeline_Juno	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Darkher	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Avenged_Sevenfold	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Bilk	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Franz_Ferdinand	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Domiziana	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Daily_Thompson	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Ritter_Lean	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Jazzy	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Blond	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Andreas_Kümmert	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:Mr._Hurley_&_Die_Pulveraffen	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:NI‐KA	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Frank_Turner	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Wanda	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:JULIKA	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:King_Hannah	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Alune_Wade	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:Darkness	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:IDLES	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Das_Lumpenpack	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Suzi_Quatro	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:Aaron	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Mogwai	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Tommy_and_the_Teleboys	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:SMILE	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Brocas_Helm	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Sex_Pistols_feat._Frank_Carter	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Siamese	performs_at_festival	FESTIVAL:Elbriot	2025
+ARTIST:Shooting_Daggers	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Hartmann	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Massendefekt	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Polaris	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Blaiz_Fayah	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Principess	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Lynyrd_Skynyrd	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Helvetets_Port	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Eklipse	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Maelføy	performs_at_festival	FESTIVAL:c/o pop Festival	2025
+ARTIST:Gregory_Porter	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Northlane	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Smash_Into_Pieces	performs_at_festival	FESTIVAL:Elbriot	2025
+ARTIST:Grave_Digger	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Billy_Cobham	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:Poppy	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Blues_Pills	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Night_Laser	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Elwood_Stray	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Montell_Fish	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Nina_Chuba	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2025
+ARTIST:Christian_von_Aster	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Symba	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Christina_Stürmer	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:The_Vision_Bleak	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Nachtblut	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Kall	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:The_Sound_Veil_Society	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Devision_Redux	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Endlevel	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Mehnersmoos	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Sawyer_Hill	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Papa_Roach	performs_at_festival	FESTIVAL:Elbriot	2025
+ARTIST:Jassin	performs_at_festival	FESTIVAL:c/o pop Festival	2025
+ARTIST:Josh_Baker	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Letzte_Instanz	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Tanzwut	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Michèl_von_Wussow	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Frank_Turner	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Knife	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2025
+ARTIST:Anastacia	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Medieval_Steel	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Annie_Taylor	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Sasha_Dobson	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:No_Angels	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:Frank_Turner	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Leftovers	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Sound_Rush	performs_at_festival	FESTIVAL:Airbeat One Festival	2025
+ARTIST:Horresque	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:The_Last_Dinner_Party	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Christone_“Kingfish”_Ingram	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:Fury_in_the_Slaughterhouse	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Paula_Engels	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Punk Im Pott	2025
+ARTIST:Warhaus	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:Das_Paradies	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Haiyti	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Tiefbasskommando	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Moss_Kena	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Die_Verlierer	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Lanae	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Suicide_Commando	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Nelly_Furtado	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Erleuchtung_und_Rufo	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:unpeople	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Lambrini_Girls	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:PLAIINS	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Ein_Rosenkavalier	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Blitz_Union	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Von_Wegen_Lisbeth	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Krood	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:Bierbabes	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Angels_&_Agony	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Ellende	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Kittie	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Leftovers	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Brunhilde	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Melissa_Naschenweng	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:Yvonne_Catterfeld	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Dominik_Hartz	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Afrob	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Mehnersmoos	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Gràb	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:pako_peng	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Falling_in_Reverse	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:[:SITD:]	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:The_Warlocks	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Parallel	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:ArsGoatia	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Tulpe	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Jah9	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Messiah	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Spiritbox	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Yseult	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:The_Black_Keys	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:NAXEN	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Dayseeker	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Any_Given_Day	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:So_Good	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Slowdive	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Chapel_of_Disease	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Lord_of_the_Lost	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Fuschl_Dynamite	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Palantyr	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Melissa_Etheridge	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Seven_Hours_After_Violet	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Antimatter	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Moonspell	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Natascha_Polké	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Paula_Carolina	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Dezperadoz	performs_at_festival	FESTIVAL:No Playback Festival	2025
+ARTIST:Yellowcard	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Curse	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Thrice	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Monolord	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Mel_D	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:Long_Distance_Calling	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Valborg	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Electric_Callboy	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Camila_Cabello	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Aynsley_Lister	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:Irie_Révoltés	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Jesper_Munk	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:SPRINTS	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Chapo102	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Gomorra	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Camouflage	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Freddie_Dredd	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Yosho	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:Circa_Waves	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Equilibrium	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Enslaved	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Vybz_Kartel	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:skrt_cobain	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:Jassin	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Grendel’s_Sÿster	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Trophy_Eyes	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Van_Holzen	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Ost+Front	performs_at_festival	FESTIVAL:G.O.N.D.	2025
+ARTIST:Bulgarian_Cartrader	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Cypress_Hill	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Airbourne	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Randale	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Xandria	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Lùisa	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Hamish_Hawk	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Vio-lence	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Evil_Jared_x_Krogi	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Heaven_Shall_Burn	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:LANDMVRKS	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:TRAITRS	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Willow_Parlo	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Antagonizor	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Thy_Light	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Oska	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:Veli	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:We_Are_Scientists	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Berq	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Knocked_Loose	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Spiritual_Cramp	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:From_Fall_to_Spring	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Stray_From_the_Path	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Tir	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Kasi	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Soft_Loft	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Cari_Cari	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Machinista	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Hell_Boulevard	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Sabbrabells	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Ellende	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Royal_Republic	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:VOWWS	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Auger	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:It’s_for_Us	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Alessi_Rose	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Phantom	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Berq	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Amelie_Lens	performs_at_festival	FESTIVAL:Airbeat One Festival	2025
+ARTIST:The_Smokin'44s	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Victoria	performs_at_festival	FESTIVAL:Time Warp Germany	2025
+ARTIST:Crusher	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Electric_Callboy	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Friska_Viljor	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Don't_Drop_The_Sword	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Biffy_Clyro	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:LEYKA	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:She_Past_Away	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Psyclon_Nine	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Atlantean_Kodex	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Korpiklaani	performs_at_festival	FESTIVAL:Hörnerfest	2025
+ARTIST:Seven_Sisters	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:The_Bloodstrings	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Electric_Callboy	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Ikkimel	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:S.A._Slayer	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Monobo_Son	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Shenseea	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Ondfødt	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Ray_Dalton	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Bilderbuch	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Blaze_Bayley	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Grave_Digger	performs_at_festival	FESTIVAL:No Playback Festival	2025
+ARTIST:Koenix	performs_at_festival	FESTIVAL:Feuertal	2025
+ARTIST:Lynyrd_Skynyrd	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Astral_Bakers	performs_at_festival	FESTIVAL:c/o pop Festival	2025
+ARTIST:Domiziana	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Menschenfresser	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2025
+ARTIST:Cypecore	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Leonora	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Remember_Tomorrow	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Kate_Nash	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Feuerschwanz	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Men_Without_Hats	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Poisöned_Speed	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Seven_Hours_After_Violet	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:RAYE	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Shirley_Holmes	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Ikkimel	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Sophia	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Rome	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Die_Krupps	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Blond	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Klangstabil	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Iggy_Pop	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Flowin_Immo	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:K.I.Z	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Chuck_Prophet_&_His_Cumbia_Shoes	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:999999999	performs_at_festival	FESTIVAL:Time Warp Germany	2025
+ARTIST:Jonathan_Henrich	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Santiano	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:Autumnblaze	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Insult	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Zsá_Zsá	performs_at_festival	FESTIVAL:c/o pop Festival	2025
+ARTIST:Kasi	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Dusk	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Nail_by_Nail	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:High_Spirits	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Sortilège	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Biffy_Clyro	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:SDP	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Dylan_LeBlanc	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Alligatoah	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Mothica	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Sam_Fender	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Skuth	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Violent_Force	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Kraftklub	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Mechanic_Tyrants	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Lacrimas_Profundere	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:The_Corrs	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Escuela_Grind	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Samu_Haber	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Millencolin	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Joan_as_Police_Woman	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:tAKiDA	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Eefje_de_Visser	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Blümchen	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Tobias_Bernstrup	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Madsen	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Levin_Liam	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Grade_2	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Amethyst	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Jassin	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Kerrigan	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Rosy_Vista	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Sasquatch	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Souly	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:ACCVSED	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Krawallbrüder	performs_at_festival	FESTIVAL:G.O.N.D.	2025
+ARTIST:Ikkimel	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Friedberg	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Eremit	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Kalte_Nacht	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Querbeat	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Warfield	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Deborah_De_Luca	performs_at_festival	FESTIVAL:Airbeat One Festival	2025
+ARTIST:Kreftich	performs_at_festival	FESTIVAL:Punk Im Pott	2025
+ARTIST:Spiritual_Front	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Sido	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2025
+ARTIST:Jassin	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Solitude_Aeturnus	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Lara_Hulo	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:From_Fall_to_Spring	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Van_Holzen	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Gravety	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2025
+ARTIST:Faber	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:Morgan_Heritage	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:MAX&JOY	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:Olli_Schulz	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:$ONO$_CLIQ	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Skillet	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Bosse	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:Tiësto	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Die_Sterne	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Samurai_Pizza_Cats	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Nils_Keppel	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:Shawn_Mendes	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:The_Hooters	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:Bibiza	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:SDP	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Kadavar	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Amethyst	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Sophie_and_the_Giants	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2025
+ARTIST:Fontaines_D.C.	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Annisokay	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:$OHO_BANI	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:April_Art	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:cosby	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Leichtmatrose	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Circus_of_Fools	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:SPRINTS	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Dunkelsucht	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Rea_Garvey	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2025
+ARTIST:Samu_Haber	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Ronan_Keating	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Wet_Leg	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Ash_Code	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Rong_Kong_Koma	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Jan_Böhmermann_feat._Das_Rundfunktanzorchester_Ehrenfeld	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Grendel	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:FabrikC	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:01099	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Juse_Ju_Fatoni_&_Edgar_Wasser	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Walter_Trout	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:Artillery	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:futurebae	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Sophia_Kennedy	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:She_Hates_Emotions	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:MRCY	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Warren_Haynes_Band	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Rope_Sect	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Will_Smith	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Third_World	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Necronautical	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Jan_Delay_&_Disko_No._1	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Alli_Neumann	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Steel_Faith	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Edwin_Rosen	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:Ultima_Necat	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Chartreuse	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:Juse_Ju_Fatoni_&_Edgar_Wasser	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:BAP	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Abbie_Falls	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:The_Hidden_Cameras	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Grossstadtgeflüster	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Vorga	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:The_Great_Leslie	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Chaos_Invocation	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Atlas_Bird	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Sportfreunde_Stiller	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:The_Murder_Capital	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Scooter	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2025
+ARTIST:Turbostaat	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Pretty_Maids	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Vinnum_Sabbathi	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Khan	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Stefan_Raab	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Zartmann	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Team_Scheisse	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:Olli_Schulz	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Seraina_Telli	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Damien	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:5th_Avenue	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Alarmsignal	performs_at_festival	FESTIVAL:Punk Im Pott	2025
+ARTIST:JEREMIAS	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Henrik_Freischlader	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Inter_Arma	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Sixth_June	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Dea_Matrona	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Zebrahead	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Helge_Schneider	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:K.I.Z	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Nyssa	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Sortilège	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Querbeat	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Qual	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:The_Juggernauts	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Rosegarden_Funeral_Party	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Leoniden	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Nieve_Ella	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Edwin_Rosen	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Rise_Against	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Frog_Leap	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Project_Pitchfork	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Hot_Milk	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Superheaven	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:GULVØSS	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Haiyti	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:Journey_of_D.C.	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Tocotronic	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Brutalismus_3000	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Ambush	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Burna_Boy	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Monolith	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Reaper	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Donots	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:Axxed	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Wayfarer	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Yoth_Iria	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Schelmish	performs_at_festival	FESTIVAL:Feuertal	2025
+ARTIST:Roo_Panes	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Heavysaurus	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:Tarja	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:Mustang	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Goitzsche_Front	performs_at_festival	FESTIVAL:G.O.N.D.	2025
+ARTIST:Leoniden	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Caravãna_Sun	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:Die_Prinzen	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2025
+ARTIST:rosmarin	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Creeper	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:S•u•g•a•r•	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Faber	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Bad_Nerves	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Cervet	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Turbostaat	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Sampagne	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Coltaine	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Leoniden	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Culcha_Candela	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Backstabbed	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Powerwolf	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Dream_Theater	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Yseult	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Kwam.E	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Sweet_Electric	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Abor_&_Tynna	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Dornenreich	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Turbostaat	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Mia_Morgan	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Battlesnake	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Conan_Gray	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Zebrahead	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:The_Analogues	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Nelly_Furtado	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Placebo_Effect	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Miwata	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Dirkschneider	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Die_Verlierer	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:The_Wombats	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Evil_Invaders	performs_at_festival	FESTIVAL:No Playback Festival	2025
+ARTIST:Myles_Kennedy	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:MOLA	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Johannes_Oerding	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Esther_Graf	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Jungle_Rot	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:The_Teskey_Brothers	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Stallion	performs_at_festival	FESTIVAL:No Playback Festival	2025
+ARTIST:Amethyst	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:STAHLZEIT	performs_at_festival	FESTIVAL:G.O.N.D.	2025
+ARTIST:Satan	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:MAX&JOY	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Disarstar	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Hangover_in_Minsk	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Bilk	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Charly_Klauser	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Post_Malone	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Anne_Clark	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Fontaines_D.C.	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Air	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Lena&Linus	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Sea_Girls	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Kasi	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:girl_in_red	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:CRASHDÏET	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Dödsrit	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Royal_Republic	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Eisfabrik	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:William_Bleak	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Riot_V	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:The_Pighounds	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Silius	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Fat_Dog	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:Nyrst	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:c/o pop Festival	2025
+ARTIST:Amos_the_Kid	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Skuth	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Heir_Apparent	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Tsjuder	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Cervello_Elettronico	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Purgatory	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Nina_Chuba	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:MAX&JOY	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:My_Ugly_Clementine	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:The_Backseat_Lovers	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Finn_Forster	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Wolcensmen	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Victorius	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Schließmuskel	performs_at_festival	FESTIVAL:Punk Im Pott	2025
+ARTIST:Tream	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Abduction	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Enny‐Mae	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Amira_Elfeky	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Fiddler’s_Green	performs_at_festival	FESTIVAL:Feuertal	2025
+ARTIST:Zimmer90	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:LYZA	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Hurricaneswimteam	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Juli	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Jon_Spencer	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Mika_Noé	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Patti_Smith	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:PAWSA	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Pecadores	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Tom_Jones	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Good_Looks	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Fury_in_the_Slaughterhouse	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Jassin	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:Rein	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Rising_Insane	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Ikkimel	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Grave_of_Love	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Christin_Nichols	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Nico_Santos	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:SiM	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Smash_Into_Pieces	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Charlize	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:MilleniumKid	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Erdling	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Zugzwang	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Irie_Révoltés	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Love'n'Joy	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Philippa_Kinsky	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:SALÒ	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Touché_Amoré	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Stahlmann	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:$OHO_BANI	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:The_Red_Flags	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:The_Second_Sight	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Beenie_Man	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Dubinski	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Mantar	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Cypress_Hill	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Johannes_Oerding	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2025
+ARTIST:Defects	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Pretty_Pink	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:The_Mao_Tse_Tung_Experience	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Zaho_de_Sagazan	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:The_Subways	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Die_Verlierer	performs_at_festival	FESTIVAL:Punk Im Pott	2025
+ARTIST:Der_Butterwegge	performs_at_festival	FESTIVAL:Punk Im Pott	2025
+ARTIST:The_Meffs	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Twin_Noir	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Makke	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Deathless_Void	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Scheiba	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Freeways	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Cammy_Barnes	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:Dritte_Wahl	performs_at_festival	FESTIVAL:Punk Im Pott	2025
+ARTIST:Slipknot	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Nothing_More	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Hyena	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Nest	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:April_Art	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Apache_207	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Djo	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Betontod	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Florentina	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:Power_Surge	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Isolation_Berlin	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:Beauty_&_The_Beats	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:The_Warning	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Hatred	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Ellice	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:ZSK	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:GRENZKONTROLLE	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:Mr._Hurley_&_Die_Pulveraffen	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2025
+ARTIST:Norah_Jones	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Wanda	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Stefanie_Heinzmann	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Feine_Sahne_Fischfilet	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Bob_Mould	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Emil_Bulls	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Stella_Bridie	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Zartmann	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Parcels	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Rise_Against	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Purple_Disco_Machine	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2025
+ARTIST:Amyl_and_the_Sniffers	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Chaos_Commute	performs_at_festival	FESTIVAL:c/o pop Festival	2025
+ARTIST:Paris_Paloma	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Iggy_Pop	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Jassin	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Weezer	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Phil_Campbell_and_the_Bastard_Sons	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Nova_Twins	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Paul_van_Dyk	performs_at_festival	FESTIVAL:Airbeat One Festival	2025
+ARTIST:Heisskalt	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:The_Obsessed	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Slauter_Xstroyes	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Dead_Poet_Society	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Lorna_Shore	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Zeal_&_Ardor	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Palaye_Royale	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Lumï	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:SOFT_PLAY	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Pain_of_Truth	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Deftones	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Heimatærde	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Nichtseattle	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Domine	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Maerzfeld	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Dymna_Lotva	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Null_Positiv	performs_at_festival	FESTIVAL:G.O.N.D.	2025
+ARTIST:Ikkimel	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Vrîmuot	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Horns_of_Domination	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Roland_Kaiser	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Dilla	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Imminence	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Risingfall	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Alligatoah	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Hekate	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Hattler	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:Swiss_+_Die_Andern	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Stina_Holmquist	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Kreator	performs_at_festival	FESTIVAL:Elbriot	2025
+ARTIST:Arthur_Brown	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:RAYE	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Roland_Kaiser	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2025
+ARTIST:Gaë_Bolg_and_the_Church_of_Fand	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Kemo_the_Blaxican	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Marquess	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2025
+ARTIST:Drug_Church	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:I_See_Stars	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Elvis_Costello	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:SALÒ	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Fleshwater	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Alli_Neumann	performs_at_festival	FESTIVAL:c/o pop Festival	2025
+ARTIST:Kerry_King	performs_at_festival	FESTIVAL:Elbriot	2025
+ARTIST:Kingfishr	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Stereo_MC’s	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:Accept	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Destroy_Boys	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:London_Grammar	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Raum27	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Vlad_in_Tears	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Future_Palace	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Nina_Kraviz	performs_at_festival	FESTIVAL:Time Warp Germany	2025
+ARTIST:Sodom	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Dorfterror	performs_at_festival	FESTIVAL:Punk Im Pott	2025
+ARTIST:Master	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:CAVE	performs_at_festival	FESTIVAL:No Playback Festival	2025
+ARTIST:Luisa_Neubauer	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Hell_Boulevard	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Beatsteaks	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Hansemädchen	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:In_Flames	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Lawrence	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:Lola_Young	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Lucy_Dacus	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Rome	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Ronan_Keating	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Survive_Said_The_Prophet	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Bürger_Lars_Dietrich	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:She_Past_Away	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Siegfried_&_Joy	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Terror	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Karl_die_Große	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:Edna_Million	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:EKKSTACY	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Soror_Dolorosa	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:MaidaVale	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Suicide_Commando	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Queens_of_the_Stone_Age	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Imha_Tarikat	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Los_Males_del_Mundo	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Tream	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Piece	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Left_to_Die	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Eesah	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Will_Smith	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Good_Kid	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:FJØRT	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Night_Moves	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Teen_Mortgage	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:The_Truffauts	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:DON_WEST	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:A_Split‐Second	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Jassin	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Die_Nerven	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Hot_Water_Music	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Billy_Nomates	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Promenade_Cinema	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:KAFVKA	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Etana	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Kupfergold	performs_at_festival	FESTIVAL:Feuertal	2025
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Protector	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Grillmaster_Flash	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Sunken	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Cloudy_June	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Milky_Chance	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:KAFVKA	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Monya	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Jelly_Roll	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Drangsal	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Indian_Nightmare	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Cypress_Hill	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Engin	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Soffie	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Ebow	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:Kite	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:LØLØ	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Human_Zoo	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Die_Nerven	performs_at_festival	FESTIVAL:c/o pop Festival	2025
+ARTIST:Somebody's_Child	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:Black_Rebel_Motorcycle_Club	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Alborosie	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Ghost_Bath	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:House_of_Protection	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:High_Warden	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2025
+ARTIST:Zerre	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Receiver	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Maikel	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:257ers	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Iggi_Kelly	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Amyl_and_the_Sniffers	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Jade_Bird	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:AViVA	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Element_of_Crime	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Reaper	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Bibiza	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Kasi	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:Principe_Valiente	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Alien_Vampires	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Texoprint	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Kalte_Liebe	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:The_Thing	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Electric_Bassboy	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:A_Day_to_Remember	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Nasty	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Black_Country_Communion	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Whitechapel	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Peter_Doherty	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Dea_Matrona	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Spirit_Mother	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Teejay	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Bibiza	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Thomas_Azier	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:The_Smashing_Pumpkins	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:A_Song_for_You	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:The_Kooks	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Mortimer	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Right_Said_Fred	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Traitor	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Incarceration	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Nina_Chuba	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Noga_Erez	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:Bonnie_Raitt	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Deafheaven	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Static_Dress	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Max_Mutzke	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:K.I.Z	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Asmoday	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Rafiki	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Still_Talk	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Shout_Out_Louds	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:Austere	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Rotersand	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Nina_Chuba	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:The_Dead_South	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Bella	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Sacred_Steel	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:The_Fals	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2025
+ARTIST:01099	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Abu_Nein	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Zsá_Zsá	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:Culcha_Candela	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Das_Bo	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Juli	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:KI/KI	performs_at_festival	FESTIVAL:Time Warp Germany	2025
+ARTIST:Benediction	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Schreng_Schreng_&_La_La	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Bebe_Rexha	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Alenna_Rose	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Dead_Lord	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Antilopen_Gang	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Rabbit_Hole	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Wode	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Rue_Oberkampf	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Wizard	performs_at_festival	FESTIVAL:No Playback Festival	2025
+ARTIST:Kemo_the_Blaxican	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Misþyrming	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Suzan_Köcher’s_Suprafon	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Lotto_King_Karl	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Afrodiziac	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:lovehead	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:1979	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:International_Music	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:Drifter	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:S_Y_Z_Y_G_Y_X	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Nick_Howard	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Bon_Enfant	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:Sacred_Blade	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Marlo_Grosshardt	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Jassin	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:Nelly_Furtado	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Nungara	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Liquid_Steel	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:The_Chats	performs_at_festival	FESTIVAL:Elbriot	2025
+ARTIST:Elephant_Tree	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Zwischenlichten	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Team_Scheisse	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:Wiegand	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:The_Omega_Swarm	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Zimmer90	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:The_Undertones	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Leony	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2025
+ARTIST:Uli_Sailor	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Zaho_de_Sagazan	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:Kayo_Dot	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:K.I.Z	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Brainstorm	performs_at_festival	FESTIVAL:Metal im Woid	2025
+ARTIST:Wasia_Project	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Merrimack	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Joris_Voorn	performs_at_festival	FESTIVAL:Time Warp Germany	2025
+ARTIST:Creeds	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Apsilon	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:Montez	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Zeal_&_Ardor	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Suicidal_Angels	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:Queens_of_the_Stone_Age	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Obstinacy	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Oomph!	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Formalin	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Drangsal	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Omegaeternum	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:The_Dead_South	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Personal_Trainer	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Sigrid	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:The_Ghost_Inside	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Armagh	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2025
+ARTIST:Ashes_of_Ares	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Clueso	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:Pseudokrupp_Project	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Von_Wegen_Lisbeth	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Welly	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Ultima_Necat	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Albi_X	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Levin_Liam	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Old_Mervs	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:The_Nosferatu	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:The_Great_Sea	performs_at_festival	FESTIVAL:Prophecy Fest	2025
+ARTIST:Tom_Odell	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Bakar	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Ironsword	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Khirki	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Future_Palace	performs_at_festival	FESTIVAL:Elbriot	2025
+ARTIST:Christian_Schottstädt	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:GbR	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Comeback_Kid	performs_at_festival	FESTIVAL:Easter Cross Festival	2025
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Ashbury_Heights	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:frytz	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Kate_Nash	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:070_Shake	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Provinz	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2025
+ARTIST:GReeeN	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Paula_Engels	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Chapo102	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2025
+ARTIST:Samuel_Nicholson	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:LaBrassBanda	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:Junior_Kelly	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Meta_Dia	performs_at_festival	FESTIVAL:SummerJam	2025
+ARTIST:Charlize	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Camouflage	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Unantastbar	performs_at_festival	FESTIVAL:G.O.N.D.	2025
+ARTIST:Tribe_Friday	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Hozier	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Majak	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Dream_Theater	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Fliegende_Haie	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Versengold	performs_at_festival	FESTIVAL:Feuertal	2025
+ARTIST:Me_First_and_the_Gimme_Gimmes	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:James_Hype	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Schizophrenia	performs_at_festival	FESTIVAL:Taunus Metal Festival	2025
+ARTIST:Holy_Wars	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Steiner_&_Madlaina	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Bullet_for_My_Valentine	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Das_Lumpenpack	performs_at_festival	FESTIVAL:Punk Im Pott	2025
+ARTIST:Christin_Nichols	performs_at_festival	FESTIVAL:Rolling Stone Beach	2025
+ARTIST:Cari_Cari	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Simon_McBride	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Ian_Hooper	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:Swiss_+_Die_Andern	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Blood_and_Sun	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Ablaze	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Fannie	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Deathchant	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Omar_Rudberg	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Green_Day	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:James_Bay	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Kasalla	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Ductape	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:Vännäs_Kasino	performs_at_festival	FESTIVAL:c/o pop Festival	2025
+ARTIST:Dymna_Lotva	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2025
+ARTIST:Alanis_Morissette	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Raum27	performs_at_festival	FESTIVAL:Campus Festival	2025
+ARTIST:Divine:Zero	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2025
+ARTIST:Glasperlenspiel	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2025
+ARTIST:Cat_Burns	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Korn	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:J._Bernardt	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Void	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Patti_Smith	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:BAP	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:Those_Damn_Crows	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Sacred_Steel	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:102_Boyz	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:VUG	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Air	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:The_Gems	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Dylan_Chambers	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:070_Shake	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Fighter_V	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Unify_Separate	performs_at_festival	FESTIVAL:Amphi Festival	2025
+ARTIST:REZN	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:RUEBI	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Mighty_Oaks	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Rotoskop	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Marathon	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Cage	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:The_Prodigy	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Paula_Engels	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Fit_for_an_Autopsy	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Marcus_Miller	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:Grin	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:102_Boyz	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Souly	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Kasalla	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:SOFIA_ISELLA	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Lagwagon	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Lurch	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Massendefekt	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Apashe	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Paula_Carolina	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:So_Good	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:Tilly_Electronics	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:GARDENS	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Angel_Witch	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Kissin’_Dynamite	performs_at_festival	FESTIVAL:Elbriot	2025
+ARTIST:Noah_Levi	performs_at_festival	FESTIVAL:Unser Song Für	2025
+ARTIST:Gianna_Nannini	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Mando_Diao	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2025
+ARTIST:Grasshole	performs_at_festival	FESTIVAL:Sinner Rock Festival	2025
+ARTIST:Graveyard	performs_at_festival	FESTIVAL:Hoflärm	2025
+ARTIST:Hi!_Spencer	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Bon_Enfant	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:Galactic_Superlords	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2025
+ARTIST:Suki_Waterhouse	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:Incognito	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2025
+ARTIST:Imperial_Triumphant	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Digital_Factor	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Good_Neighbours	performs_at_festival	FESTIVAL:MS Dockville	2025
+ARTIST:Destruction	performs_at_festival	FESTIVAL:Keep It True	2025
+ARTIST:Dotan	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Filow	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Apsilon	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:The_Smashing_Pumpkins	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Big_Special	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:thrown	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Coppelius	performs_at_festival	FESTIVAL:Feuertal	2025
+ARTIST:GbR	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025
+ARTIST:Sleep_Token	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Tonbruket	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2025
+ARTIST:Auger	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2025
+ARTIST:Zetra	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Patti_Smith	performs_at_festival	FESTIVAL:Summer in the City	2025
+ARTIST:Jinjer	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Irie_Révoltés	performs_at_festival	FESTIVAL:Happiness Festival	2025
+ARTIST:Ereb_Altor	performs_at_festival	FESTIVAL:Storm Crusher Festival	2025
+ARTIST:Pablu	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Ektomorf	performs_at_festival	FESTIVAL:Metal Franconia Festival	2025
+ARTIST:Layla_Benitez	performs_at_festival	FESTIVAL:Citadel Music Festival	2025
+ARTIST:BENNETT	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:CATT	performs_at_festival	FESTIVAL:Appletree Garden Festival	2025

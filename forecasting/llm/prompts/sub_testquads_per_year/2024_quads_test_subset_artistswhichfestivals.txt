@@ -1,0 +1,164 @@
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Rocco del Schlacko	2024
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:With Full Force	2024
+ARTIST:Batushka	performs_at_festival	FESTIVAL:Wolfszeit Festival	2024
+ARTIST:Saltatio_Mortis	performs_at_festival	FESTIVAL:M'era Luna Festival	2024
+ARTIST:Saltatio_Mortis	performs_at_festival	FESTIVAL:Deichbrand Festival	2024
+ARTIST:Charlotte_de_Witte	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Rocco del Schlacko	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Rocco del Schlacko	2024
+ARTIST:Manntra	performs_at_festival	FESTIVAL:Feuertanz Festival	2024
+ARTIST:Carcass	performs_at_festival	FESTIVAL:Metal Frenzy Open Air	2024
+ARTIST:Our_Mirage	performs_at_festival	FESTIVAL:Rock am Beckenrand	2024
+ARTIST:Saltatio_Mortis	performs_at_festival	FESTIVAL:MPS	2024
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Vainstream Rockfest	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:gamescom festival	2024
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Open Flair	2024
+ARTIST:Crypta	performs_at_festival	FESTIVAL:With Full Force	2024
+ARTIST:Traitor	performs_at_festival	FESTIVAL:M.I.S.E.	2024
+ARTIST:Saltatio_Mortis	performs_at_festival	FESTIVAL:Baltic Open Air	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:Giessener Kultursommer	2024
+ARTIST:Wine_Lips	performs_at_festival	FESTIVAL:Krach am Bach	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:PULS Open Air	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Open R Festival	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Jamel rockt den Förster	2024
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Southside Festival	2024
+ARTIST:Tramhaus	performs_at_festival	FESTIVAL:Polimagie Festival	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Zelt Festival Ruhr	2024
+ARTIST:Kind_Kaputt	performs_at_festival	FESTIVAL:Open Flair	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Taubertal Festival	2024
+ARTIST:Charlotte_de_Witte	performs_at_festival	FESTIVAL:Nature One	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Open Flair	2024
+ARTIST:Burning_Witches	performs_at_festival	FESTIVAL:Metal Hammer Paradise	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Zelt-Musik-Festival Freiburg	2024
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Taubertal Festival	2024
+ARTIST:Heretoir	performs_at_festival	FESTIVAL:Ragnarök Festival	2024
+ARTIST:Saltatio_Mortis	performs_at_festival	FESTIVAL:Metal Hammer Paradise	2024
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Hütte Rockt	2024
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Taubertal Festival	2024
+ARTIST:Álvaro_Soler	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:MARCH	performs_at_festival	FESTIVAL:Tells Bells Festival	2024
+ARTIST:Friedberg	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Open Flair	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Traumzeit Festival	2024
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Pell Mell Festival	2024
+ARTIST:MARCH	performs_at_festival	FESTIVAL:Free & Easy Festival	2024
+ARTIST:Asphyx	performs_at_festival	FESTIVAL:Braincrusher in Hell	2024
+ARTIST:Mia_Morgan	performs_at_festival	FESTIVAL:Wave Gotik Treffen	2024
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Open Flair	2024
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Rock am Berg Merkers	2024
+ARTIST:Zucchero	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Spirit Festival	2024
+ARTIST:Jupiter_Jones	performs_at_festival	FESTIVAL:Hanse Song	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:Rock am Beckenrand	2024
+ARTIST:Asphyx	performs_at_festival	FESTIVAL:M.I.S.E.	2024
+ARTIST:Talco	performs_at_festival	FESTIVAL:Taubertal Festival	2024
+ARTIST:Maël_&_Jonas	performs_at_festival	FESTIVAL:Maiwoche Osnabrück	2024
+ARTIST:Asphyx	performs_at_festival	FESTIVAL:Der Detze Rockt	2024
+ARTIST:Burning_Witches	performs_at_festival	FESTIVAL:Summer Breeze	2024
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Green Juice Festival	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Zeltfestival Rhein Neckar	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Heretoir	performs_at_festival	FESTIVAL:Summer Breeze	2024
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Reeperbahn Festival	2024
+ARTIST:Captain_Asshole	performs_at_festival	FESTIVAL:Free & Easy Festival	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Giessener Kultursommer	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Popsalon	2024
+ARTIST:Charlotte_de_Witte	performs_at_festival	FESTIVAL:Mayday	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:Rock im Park	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Rock am Berg Merkers	2024
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Reload Festival	2024
+ARTIST:False_Lefty	performs_at_festival	FESTIVAL:Traumzeit Festival	2024
+ARTIST:Burning_Witches	performs_at_festival	FESTIVAL:Zeltfestival Rhein Neckar	2024
+ARTIST:Lordi	performs_at_festival	FESTIVAL:Summer Breeze	2024
+ARTIST:Casino_Blackout	performs_at_festival	FESTIVAL:Deichbrand Festival	2024
+ARTIST:The_Bloodstrings	performs_at_festival	FESTIVAL:Maiwoche Osnabrück	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Rock am Beckenrand	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Charlotte_de_Witte	performs_at_festival	FESTIVAL:SonneMondSterne	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:Splash!	2024
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Southside Festival	2024
+ARTIST:Talco	performs_at_festival	FESTIVAL:Open Flair	2024
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Sputnik Spring Break	2024
+ARTIST:Manntra	performs_at_festival	FESTIVAL:Mead & Greed	2024
+ARTIST:Manntra	performs_at_festival	FESTIVAL:Hexentanz Festival	2024
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Lordi	performs_at_festival	FESTIVAL:RockHarz	2024
+ARTIST:Parasite_Inc.	performs_at_festival	FESTIVAL:M.I.S.E.	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Trebur Open Air	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Batushka	performs_at_festival	FESTIVAL:Party.San Metal Open Air	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Wine_Lips	performs_at_festival	FESTIVAL:Obstwiesenfestival	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:Modular Festival	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Vainstream Rockfest	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:Vainstream Rockfest	2024
+ARTIST:Saltatio_Mortis	performs_at_festival	FESTIVAL:Giessener Kultursommer	2024
+ARTIST:CONNY	performs_at_festival	FESTIVAL:Sommer am Kiez	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Open Air am Berg	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Southside Festival	2024
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Riez Open Air	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:Bautz Festival	2024
+ARTIST:Imminence	performs_at_festival	FESTIVAL:With Full Force	2024
+ARTIST:Batushka	performs_at_festival	FESTIVAL:Hörnerfest	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Rocken am Brocken	2024
+ARTIST:Charlotte_de_Witte	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Amistat	performs_at_festival	FESTIVAL:Golden Leaves Festival	2024
+ARTIST:Charlotte_de_Witte	performs_at_festival	FESTIVAL:Ikarus Festival	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Crypta	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Music Forge Festival	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Southside Festival	2024
+ARTIST:Heretoir	performs_at_festival	FESTIVAL:Party.San Metal Open Air	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Southside Festival	2024
+ARTIST:Asphyx	performs_at_festival	FESTIVAL:Summer Breeze	2024
+ARTIST:Desaster	performs_at_festival	FESTIVAL:In Flammen Open Air	2024
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Southside Festival	2024
+ARTIST:Michèl_von_Wussow	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Kanaan	performs_at_festival	FESTIVAL:Freak Valley Festival	2024
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:MARCH	performs_at_festival	FESTIVAL:Wasted Open Air	2024
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Southside Festival	2024
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:Deichbrand Festival	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Pell Mell Festival	2024
+ARTIST:Burning_Witches	performs_at_festival	FESTIVAL:MetalAcker	2024
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Rock im Park	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:Heroes Festival	2024
+ARTIST:Crypta	performs_at_festival	FESTIVAL:M.I.S.E.	2024
+ARTIST:Frog_Bog_Dosenband	performs_at_festival	FESTIVAL:Open Flair	2024
+ARTIST:Zucchero	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Wine_Lips	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Southside Festival	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:Deichbrand Festival	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Rocco del Schlacko	2024
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Heroes Festival	2024
+ARTIST:Desaster	performs_at_festival	FESTIVAL:Boarstream Open Air	2024
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Summer Breeze	2024
+ARTIST:Daily_Thompson	performs_at_festival	FESTIVAL:Freak Valley Festival	2024
+ARTIST:Misþyrming	performs_at_festival	FESTIVAL:Braincrusher in Hell	2024
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Ruhrpott Rodeo	2024
+ARTIST:Manntra	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Tramhaus	performs_at_festival	FESTIVAL:Haldern Pop Festival	2024
+ARTIST:Carcass	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Parasite_Inc.	performs_at_festival	FESTIVAL:RockHarz	2024
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2024
+ARTIST:Crypta	performs_at_festival	FESTIVAL:Summer Breeze	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:Schlossgrabenfest	2024
+ARTIST:Bulgarian_Cartrader	performs_at_festival	FESTIVAL:Reeperbahn Festival	2024
+ARTIST:Manntra	performs_at_festival	FESTIVAL:Free & Easy Festival	2024
+ARTIST:Álvaro_Soler	performs_at_festival	FESTIVAL:Hamburger Kultursommer	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Kulturarena	2024
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Hamburger Kultursommer	2024
+ARTIST:Desaster	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Burning_Witches	performs_at_festival	FESTIVAL:Rock & Metal Dayz	2024

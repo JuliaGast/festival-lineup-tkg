@@ -1,0 +1,238 @@
+13d625e1;FESTIVAL:Masters of the Unicorn;Germany;Burgwald
+13d631e1;FESTIVAL:Plage Noire;Germany;Wangels
+13d69539;FESTIVAL:Metal Frenzy Open Air;Germany;gardelegen
+13d69541;FESTIVAL:Stemweder Open Air;Germany;Stemwede
+13d6a11d;FESTIVAL:Keep It Low Festival;Germany;Munich
+13d6a961;FESTIVAL:Bochum Total;Germany;Bochum
+13d6ad05;FESTIVAL:Rolling Stone Beach;Germany;Wangels
+13d6b531;FESTIVAL:Pell Mell Festival;Germany;Obererbach
+13d6bd39;FESTIVAL:SummerJam;Germany;Cologne
+13d6bd4d;FESTIVAL:M'era Luna Festival;Germany;hildesheim
+13d6bd69;FESTIVAL:Keep It True;Germany;Dittigheim
+13d6bd6d;FESTIVAL:Rock im Park;Germany;Nuremberg
+13d6bdf5;FESTIVAL:Hurricane Festival;Germany;Scheeßel
+13d6d96d;FESTIVAL:Monster Festival;Germany;Geiselwind
+13d6e179;FESTIVAL:Zeltfestival Rhein Neckar;Germany;Mannheim
+13d6e5a1;FESTIVAL:A Chance for Metal Festival;Germany;Ochtendung
+13d6f189;FESTIVAL:Hamburger Kultursommer;Germany;Hamburg
+13d7b171;FESTIVAL:Wasted Open Air;Germany;Obernzenn
+1bd619e8;FESTIVAL:Frostfeuernächte;Germany;Gräbendorf
+1bd68d4c;FESTIVAL:Krach am Bach;Germany;Beelen
+1bd68d6c;FESTIVAL:Lott-Festival;Germany;Raversbeuren
+1bd68dfc;FESTIVAL:Maiwoche Osnabrück;Germany;Osnabrück
+1bd69924;FESTIVAL:Maifeld Derby;Germany;Mannheim
+1bd69dd4;FESTIVAL:Orange Blossom Special;Germany;Beverungen
+1bd6a104;FESTIVAL:Zelt-Musik-Festival Freiburg;Germany;Freiburg
+1bd6a108;FESTIVAL:Wudzdog Open Air;Germany;Auhausen
+1bd6a5e4;FESTIVAL:Hafengeburtstag;Germany;Hamburg
+1bd6a968;FESTIVAL:Nature One;Germany;Kastellaun
+1bd6a9fc;FESTIVAL:Hexentanz Festival;Germany;Thallichtenberg
+1bd6b118;FESTIVAL:SWR3 New Pop Festival;Germany;Baden-Baden
+1bd6b1e0;FESTIVAL:NORD Open Air;Germany;Essen
+1bd6b1f4;FESTIVAL:Juicy Beats;Germany;Dortmund
+1bd6bd50;FESTIVAL:Party.San Metal Open Air;Germany;Schlotheim
+1bd6bdf8;FESTIVAL:Highfield Festival;Germany;Großpösna
+1bd6f150;FESTIVAL:Jamel rockt den Förster;Germany;Jamel
+1bd6f154;FESTIVAL:Rock am Beckenrand;Germany;Wolfshagen
+1bd6f964;FESTIVAL:FullMetal Osthessen;Germany;Niederaula
+23d63443;FESTIVAL:De Mortem et Diabolum;Germany;Berlin
+23d6382b;FESTIVAL:Pure Fucking Metal FestEvil;Germany;Laberweinting
+23d68443;FESTIVAL:Taunus Metal Festival;Germany;Oberursel
+23d6880f;FESTIVAL:Reggae Jam Festival;Germany;Bersenbrück
+23d68887;FESTIVAL:Kieler Woche;Germany;kiel
+23d69047;FESTIVAL:Happiness Festival;Germany;straubenhardt
+23d6947b;FESTIVAL:Spirit Festival;Germany;Loburg
+23d694c3;FESTIVAL:Schlossgrabenfest;Germany;Darmstadt
+23d6a0a3;FESTIVAL:Storm Crusher Festival;Germany;Püchersreuth
+23d6aceb;FESTIVAL:Hessentag;Germany;Bad Vilbel
+23d6b813;FESTIVAL:Familientreffen;Germany;Sandersleben
+23d6b89b;FESTIVAL:Reeperbahn Festival;Germany;St. Pauli
+23d6b8fb;FESTIVAL:Rocco del Schlacko;Germany;Püttlingen
+23d6bc07;FESTIVAL:RockHarz;Germany;ballenstedt
+23d6bc6b;FESTIVAL:Zelt Festival Ruhr;Germany;Bochum
+23d6bc87;FESTIVAL:Ragnarök Festival;Germany;Lichtenfels
+23d6d02f;FESTIVAL:Spektrum;Germany;Hamburg
+23d6ecdf;FESTIVAL:Berlin Atonal;Germany;Berlin
+23d6f42f;FESTIVAL:Afdreiht un Buten;Germany;goldenstedt
+23d6f4af;FESTIVAL:Boarstream Open Air;Germany;Mulfingen
+23d6f4e7;FESTIVAL:Summer in the City;Germany;Mainz
+23d7fcf7;FESTIVAL:ZappenDuster;Germany;Münster
+2bd628b6;FESTIVAL:Autostadt Sommerfestival;Germany;Wolfsburg
+2bd65cd6;FESTIVAL:SUPERBLOOM;Germany;Munich
+2bd684ae;FESTIVAL:Karben Open Air;Germany;Karben
+2bd6949a;FESTIVAL:Modular Festival;Germany;Augsburg
+2bd6980a;FESTIVAL:AStA Sommerfestival;Germany;Paderborn
+2bd69836;FESTIVAL:Rocken am Brocken;Germany;Elend
+2bd6a4ce;FESTIVAL:Finkenbach Festival;Germany;Finkenbach
+2bd6ac9a;FESTIVAL:Rock am Härtsfeldsee;Germany;Dischingen
+2bd6b0aa;FESTIVAL:Feuertal;Germany;Wuppertal
+2bd6b466;FESTIVAL:Jazz & Joy Festival;Germany;worms
+2bd6bc7a;FESTIVAL:Summer Breeze;Germany;Dinkelsbühl
+2bd6f85e;FESTIVAL:Unter einem Dach;Germany;Erlangen
+33d6286d;FESTIVAL:Mahlstrom Open Air;Germany;Holzappel
+33d68405;FESTIVAL:Essen.Original.;Germany;Essen
+33d6849d;FESTIVAL:Full Metal Cruise;Germany;Bremerhaven
+33d698e5;FESTIVAL:Open Ohr Festival;Germany;Mainz
+33d6a4bd;FESTIVAL:CTM Festival;Germany;Berlin
+33d6a4c9;FESTIVAL:Elbriot;Germany;Hamburg
+33d6acf1;FESTIVAL:Under The Black Sun Festival;Germany;Friesack
+33d6b0a5;FESTIVAL:Neuborn Open Air Festival;Germany;Wörrstadt
+33d6bcd1;FESTIVAL:Taubertal Festival;Germany;Rothenburg ob der Tauber
+33d6dc35;FESTIVAL:The Sound of Bronkow;Germany;Dresden
+33d6f0a9;FESTIVAL:Golden Leaves Festival;Germany;Darmstadt
+3bd62880;FESTIVAL:Music Forge Festival;Germany;Lich
+3bd69c7c;FESTIVAL:Leverkusener Jazztage;Germany;leverkusen
+3bd6a0a8;FESTIVAL:Chronical Moshers Festival;Germany;Hauptmannsgrün
+3bd6a0ec;FESTIVAL:Metal Hammer Paradise;Germany;Wangels
+3bd6a85c;FESTIVAL:Art Rock Festival;Germany;Reichenbach/Vogtland
+3bd6a8bc;FESTIVAL:Freak Valley Festival;Germany;netphen
+3bd6ac94;FESTIVAL:Olgas Rock;Germany;Oberhausen
+3bd6accc;FESTIVAL:Punk Im Pott;Germany;Oberhausen
+3bd6bc14;FESTIVAL:Nocturnal Culture Night;Germany;Deutzen
+3bd6d4b8;FESTIVAL:Campus Festival;Germany;Konstanz
+3bd6d8a4;FESTIVAL:Schlacht um Otzenhausen;Germany;Otzenhausen
+3bd6f8f0;FESTIVAL:Dark Troll Festival;Germany;Bornstedt
+3d6393f;FESTIVAL:Rock am Berg Merkers;Germany;Merkers
+3d6850b;FESTIVAL:Festivalkult;Germany;Porta Westfalica
+3d68593;FESTIVAL:MPS;Germany;rastede
+3d685db;FESTIVAL:Tells Bells Festival;Germany;Villmar
+3d6a16b;FESTIVAL:Euroblast;Germany;Cologne
+3d6b123;FESTIVAL:Free & Easy Festival;Germany;Munich
+3d6b923;FESTIVAL:Wave Gotik Treffen;Germany;Leipzig
+3d6b987;FESTIVAL:Haldern Pop Festival;Germany;Haldern
+3d6b993;FESTIVAL:E-Only Festival;Germany;leipzig
+3d6b9cf;FESTIVAL:Dark Storm Festival;Germany;Chemnitz
+3d6bd6f;FESTIVAL:Rock am Ring;Germany;Nürburg
+3d6c5e3;FESTIVAL:Noisehausen Festival;Germany;Schrobenhausen
+3d6d153;FESTIVAL:Blues Festival Schöppingen;Germany;Schöppingen
+3d6ed13;FESTIVAL:Open R Festival;Germany;Uelzen
+3d6f56b;FESTIVAL:Stimmen Festival;Germany;Lörrach
+3d7a173;FESTIVAL:Walpurgisnacht;Germany;Berlin
+43d67b3b;FESTIVAL:Sinner Rock Festival;Germany;Altengronau
+43d68f3b;FESTIVAL:Easter Cross Festival;Germany;Oberndorf am Neckar
+43d68fe3;FESTIVAL:Punk & Disorderly;Germany;Berlin
+43d6a363;FESTIVAL:Rudolstadt-Fesitval;Germany;Rudolstadt
+43d6bf0f;FESTIVAL:Open Flair;Germany;Eschwege
+43d6d3cf;FESTIVAL:Ruhr Reggae Summer;Germany;Mülheim
+43d6df43;FESTIVAL:Wasted in Jarmen;Germany;Jarmen
+43d6e72f;FESTIVAL:Heimspiel Festival;Germany;Weißenburg in Bayern
+43d6eb0f;FESTIVAL:Open Air Gößnitz;Germany;Gößnitz
+43d6f71f;FESTIVAL:Watt en Schlick;Germany;Varel
+43d6ffbf;FESTIVAL:ParookaVille Festival;Germany;Weeze
+43d783b3;FESTIVAL:Metal im Woid;Germany;Schrobenhausen
+43d7871f;FESTIVAL:Exhume The Metal Festival;Germany;Ostfildern
+4bd6333e;FESTIVAL:Iron Fest;Germany;Schönenberg-Kübelberg
+4bd633be;FESTIVAL:Kessel Festival;Germany;Stuttgart
+4bd68f26;FESTIVAL:Africa Festival Würzburg;Germany;wurzburg
+4bd69faa;FESTIVAL:Desertfest;Germany;Berlin
+4bd6a76a;FESTIVAL:Baltic Open Air;Germany;Haddeby
+4bd6ab0e;FESTIVAL:In Flammen Open Air;Germany;Torgau
+4bd6aff6;FESTIVAL:Hörnerfest;Germany;Brande-Hörnerkirchen
+4bd6b3d2;FESTIVAL:Void Fest;Germany;Waldmünchen
+4bd6bbaa;FESTIVAL:Rock Hard Festival;Germany;Gelsenkirchen
+4bd6bf62;FESTIVAL:Fusion;Germany;Lärz
+4bd6f302;FESTIVAL:Sound of the Forest;Germany;Erbach
+4bd6f36e;FESTIVAL:Berlin Swamp Fest;Germany;Berlin
+4bd6f796;FESTIVAL:Heimspiel Knyphausen;Germany;erbach
+53d63745;FESTIVAL:Braincrusher in Hell;Germany;Hirschaid
+53d68f31;FESTIVAL:Umsonst & Draussen Festival Würzburg;Germany;wurzburg
+53d6abc9;FESTIVAL:Feuertanz Festival;Germany;Abenberg
+53d6abd1;FESTIVAL:Traumzeit Festival;Germany;Duisburg
+53d6bb35;FESTIVAL:SonneMondSterne;Germany;Saalburg
+53d6df6d;FESTIVAL:KulturImZelt;Germany;Braunschweig
+53d6f32d;FESTIVAL:Festival Mediaval;Germany;Selb
+53d6f3b9;FESTIVAL:Trveheim Festival;Germany;Hallbergmoos
+53d6f701;FESTIVAL:Unser Song Für;Germany;Hürth
+5bd687d0;FESTIVAL:Lollapalooza Berlin;Germany;Berlin
+5bd68b70;FESTIVAL:Protzen Open Air;Germany;protzen
+5bd69f24;FESTIVAL:Metal Franconia Festival;Germany;Geiselwind
+5bd6a754;FESTIVAL:gamescom festival;Germany;Cologne
+5bd6af00;FESTIVAL:Ruhrpott Rodeo;Germany;Hünxe
+5bd6bb30;FESTIVAL:BIG DAY OUT;Germany;Anröchte
+5bd6bb48;FESTIVAL:Splash!;Germany;grafenhainichen
+5bd6d370;FESTIVAL:No Playback Festival;Germany;Remchingen
+5bd6e30c;FESTIVAL:SeePogo Festival;Germany;Münster
+63d622bb;FESTIVAL:Heavy Psych Sounds Fest;Germany;Dresden
+63d62a07;FESTIVAL:Holter Meeting;Germany;Schloß Holte-Stukenbrock
+63d62abf;FESTIVAL:Bautz Festival;Germany;Lüdenscheid
+63d62eb7;FESTIVAL:Sommer am Kiez;Germany;Augsburg
+63d6366f;FESTIVAL:Polimagie Festival;Germany;Dresden
+63d68a1f;FESTIVAL:Hütte Rockt;Germany;Georgsmarienhütte
+63d692e3;FESTIVAL:Tag der deutschen Einheit;Germany;saarbrucken
+63d6aa0b;FESTIVAL:Vainstream Rockfest;Germany;Münster
+63d6b237;FESTIVAL:New Fall Festival;Germany;Dusseldorf
+63d6b243;FESTIVAL:Wolfszeit Festival;Germany;Eisfeld
+63d6b29b;FESTIVAL:Echelon;Germany;Bad Aibling
+63d6b6cf;FESTIVAL:Das Fest;Germany;Karlsruhe
+63d6baab;FESTIVAL:Reload Festival;Germany;sulingen
+63d6eabf;FESTIVAL:Impericon Festival Leipzig;Germany;Leipzig
+63d6fabf;FESTIVAL:KUNST!Rasen;Germany;Bonn
+63d6fe93;FESTIVAL:Time Warp Germany;Germany;Mannheim
+6bd65e42;FESTIVAL:Core Fest;Germany;Stuttgart
+6bd6862a;FESTIVAL:Prophecy Fest;Germany;balve
+6bd68a4a;FESTIVAL:Chaos Descends Festival;Germany;Crispendorf
+6bd69e0e;FESTIVAL:Bavarian Battle Open Air;Germany;Kirchdorf
+6bd6a236;FESTIVAL:Appletree Garden Festival;Germany;Diepholz
+6bd6ae0a;FESTIVAL:Death Feast Open Air;Germany;andernach
+6bd6ae4a;FESTIVAL:Hell Over Hammaburg;Germany;Hamburg
+6bd6ae8e;FESTIVAL:Dark Easter Metal Meeting;Germany;Munich
+6bd6d69e;FESTIVAL:Beach Motel van Cleef;Germany;Sankt Peter-Ording
+6bd6e60e;FESTIVAL:Rage Against Racism;Germany;Duisburg
+6bd6f292;FESTIVAL:M.I.S.E.;Germany;Homberg (Ohm)
+6bd6f2c6;FESTIVAL:Filmnächte am Elbufer;Germany;Dresden
+6bd6f622;FESTIVAL:JunkYard Open Air;Germany;Dortmund
+6bd6fa6e;FESTIVAL:Return to Strength Festival;Germany;querfurt
+73d63add;FESTIVAL:A Sinister Purpose;Germany;Leipzig
+73d66215;FESTIVAL:Hoflärm;Germany;seelbach
+73d66a15;FESTIVAL:Rock & Metal Dayz;Germany;Oschersleben
+73d68ac9;FESTIVAL:Rock Im Wald;Germany;Michelau
+73d69a15;FESTIVAL:Trebur Open Air;Germany;Trebur
+73d69ecd;FESTIVAL:Metalheadz Open-Air;Germany;Oberndorf
+73d6a689;FESTIVAL:RUDE;Germany;Bertingen
+73d6a6d1;FESTIVAL:Open Air am Berg;Germany;Eichstätt
+73d6aa99;FESTIVAL:Dong Open Air;Germany;Neukirchen-Vluyn
+73d6b245;FESTIVAL:Enjoy Jazz;Germany;Mannheim
+73d6b619;FESTIVAL:Citadel Music Festival;Germany;Berlin
+73d6b6a9;FESTIVAL:Stoned from the Underground;Germany;Erfurt
+73d6ba7d;FESTIVAL:Burg Herzberg Festival;Germany;Breitenbach am Herzberg
+73d6ba91;FESTIVAL:Immergut Festival;Germany;Neustrelitz
+73d6bab9;FESTIVAL:MS Dockville;Germany;Hamburg
+73d6c6f9;FESTIVAL:Giessener Kultursommer;Germany;Giessen
+73d6e259;FESTIVAL:BurningQ Festival;Germany;Osterholz-Scharmbeck
+73d6ee09;FESTIVAL:Riez Open Air;Germany;Bausendorf
+73d6fa0d;FESTIVAL:Der Detze Rockt;Germany;Daun
+73d6fe55;FESTIVAL:Pop-Kultur;Germany;Berlin
+73d6fe75;FESTIVAL:Heidelberg Deathfest;Germany;Heidelberg
+73d6fec1;FESTIVAL:Bardentreffen;Germany;Nuremberg
+73d78e3d;FESTIVAL:WAR against WAR Festival III;Germany;Berlin
+7bd62218;FESTIVAL:Stadtpark Open Air;Germany;Hamburg
+7bd67a9c;FESTIVAL:Party.San Herbstoffensive 2;Germany;Weimar
+7bd68a4c;FESTIVAL:Zeltfestival Honberg-Sommer;Germany;Tuttlingen
+7bd6a6d0;FESTIVAL:Deichbrand Festival;Germany;Cuxhaven
+7bd6aa14;FESTIVAL:Jazzopen;Germany;Stuttgart
+7bd6ae90;FESTIVAL:Deutsches Jazz Festival Frankfurt;Germany;Frankfurt
+7bd6be18;FESTIVAL:Tollwood Sommerfestival;Germany;Munich
+7bd6bec0;FESTIVAL:Baden In Blut Open Air;Germany;weil-am-rhein-
+7bd6caf4;FESTIVAL:Breminale Festival;Germany;Bremen
+7bd6d228;FESTIVAL:Zeltival;Germany;Karlsruhe
+7bd6e620;FESTIVAL:Static Roots Festival;Germany;oberhausen
+bd65dea;FESTIVAL:Rock in Rautheim;Germany;Braunschweig
+bd68d42;FESTIVAL:Green Juice Festival;Germany;Bonn
+bd6959e;FESTIVAL:MetalAcker;Germany;Tennenbronn
+bd69dd2;FESTIVAL:E-tropolis Festival;Germany;Oberhausen
+bd6a5c2;FESTIVAL:c/o pop Festival;Germany;Cologne
+bd6b142;FESTIVAL:OBEN OHNE Open Air;Germany;Munich
+bd6b1d2;FESTIVAL:Traffic Jam Open Air;Germany;Dieburg
+bd6b9ea;FESTIVAL:Castle Rock Festival;Germany;Mülheim
+bd6bd42;FESTIVAL:Amphi Festival;Germany;Cologne
+bd6bd66;FESTIVAL:Wacken Open Air;Germany;Wacken
+bd6bdda;FESTIVAL:Southside Festival;Germany;Neuhausen ob Eck
+bd6bdea;FESTIVAL:Headbangers Open Air;Germany;Brande-Hörnerkirchen
+bd6c5e6;FESTIVAL:Stadt ohne Meer;Germany;Giessen
+bd6d996;FESTIVAL:Black Forest Fest;Germany;Villingen-Schwenningen
+bd6dde2;FESTIVAL:Kimiko Festival;Germany;Aachen
+bd6e162;FESTIVAL:Ulmer Zelt;Germany;Ulm
+bd6f9a6;FESTIVAL:Obstwiesenfestival;Germany;Dornstadt
+bd6fdde;FESTIVAL:G.O.N.D.;Germany;Schlotheim
+bd6fde2;FESTIVAL:Airbeat One Festival;Germany;Neustadt-Glewe
+bd7a516;FESTIVAL:Kulturzelt Kassel;Germany;Kassel

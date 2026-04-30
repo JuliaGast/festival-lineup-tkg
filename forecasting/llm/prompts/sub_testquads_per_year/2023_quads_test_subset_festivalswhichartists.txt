@@ -1,0 +1,1128 @@
+ARTIST:OneRepublic	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Dilla	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Olivia_Dean	performs_at_festival	FESTIVAL:Appletree Garden Festival	2023
+ARTIST:Hotel_Rimini	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Alli_Neumann	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Lebanon_Hanover	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Larrnakh	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Negisa	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:girl_in_red	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Skindred	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Madmess	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:Attrition	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Unleashed	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Zebrahead	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Fatoni	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Lera_Lynn	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Erection	performs_at_festival	FESTIVAL:Punk Im Pott	2023
+ARTIST:Maeckes	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Tom_Bailey	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Bilk	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Coppelius	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Alexander_Wesselsky	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:STAHLZEIT	performs_at_festival	FESTIVAL:G.O.N.D.	2023
+ARTIST:Majan	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Erlend_Øye_&_La_Comitiva	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Peaches	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Final_Virus	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Ofenbach	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Philipp_Poisel	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Friends_Don't_Lie	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Pan-Pot	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Polar_Noir	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Bullet	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Vulture	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:anaïs	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Knarf_Rellöm	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Nico_Santos	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Royal_Republic	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Yusuf_Islam	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Wrest	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:YUNGBLUD	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Palaye_Royale	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:The_Aces	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Phil_Siemers	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2023
+ARTIST:Paolo_Nutini	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:ok.danke.tschüss	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Nosferatu	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Arch_Enemy	performs_at_festival	FESTIVAL:Elbriot	2023
+ARTIST:Ezra_Collective	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Ultha	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Ensiferum	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Doctor_Victor	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:M.Byrd	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:anaïs	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Leoniden	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Alex_Christensen	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2023
+ARTIST:Lionheart	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Those_Damn_Crows	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Whispering_Sons	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Smoulder	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Steph_Strings	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Isaak_Guderian	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2023
+ARTIST:Apache_207	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:KALT	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Goose	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Tristan_Brusch	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Omniversal_Earkestra	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:The_Claymore	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:Nina_Chuba	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Slough_Feg	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Charlotte_Brandi	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Savage_Existence	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Halloween	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Cyclone	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:V.E.R.S.U.S	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:YAENNIVER	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Mantar	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Potochkine	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Architects	performs_at_festival	FESTIVAL:Elbriot	2023
+ARTIST:Vanaheim	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Helstar	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Kaleo	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Vex	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:Amenra	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Infected_Rain	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:OG_Keemo	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Ben_Howard	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Hell_Patröl	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:KiNK	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Wanda	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Nova_Twins	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Chico_Trujillo	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:FORTELLA	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Those_Damn_Crows	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Letzte_Instanz	performs_at_festival	FESTIVAL:Feuertal	2023
+ARTIST:Jack_Pott	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:MOLA	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Kelsy_Karter_&_The_Heroines	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Schrottgrenze	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Tarchon_Fist	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Then_Comes_Silence	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Novembers_Doom	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Iron_Jaws	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Willy_Mason	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:Witchburner	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:eee_gee	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Touché_Amoré	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Anfisa_Letyago	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Soft_Loft	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Gerd_Janson	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Legion_of_the_Damned	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Edo_Saiya	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:René_Miller	performs_at_festival	FESTIVAL:Unser Song Für	2023
+ARTIST:Destructor	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:ACTORS	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:ClockClock	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Necrotted	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:The_Night_Eternal	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Casper	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Near_Earth_Orbit	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Jeff_Aug	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Zoe_Wees	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Apache_207	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2023
+ARTIST:Future_Lied_to_Us	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Aze	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Heretoir	performs_at_festival	FESTIVAL:ZappenDuster	2023
+ARTIST:The_Dirty_Denims	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Garmarna	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Screamer	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Der_Butterwegge	performs_at_festival	FESTIVAL:Punk Im Pott	2023
+ARTIST:Papa_Roach	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Emmon	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Ska-P	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:KYTES	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Stella	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Black_Lung	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:In_Extremo	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:The_Warning	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Haggefugg	performs_at_festival	FESTIVAL:Feuertal	2023
+ARTIST:Anti‐Flag	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Schmyt	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Debauchery	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Sleaford_Mods	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Palace	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:TRAITRS	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Altın_Gün	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Lost_Frequencies	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Bob_Mould	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Betontod	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Silbermond	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Evil_Excess	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:MEUTE	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:Donots	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Rise_Against	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Thees_Uhlmann	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Tigermilch	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Years_&_Years	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Paula_Temple	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Darkspace	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Pinghost	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:Nina_Chuba	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Brockhoff	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Paul_van_Dyk	performs_at_festival	FESTIVAL:Airbeat One Festival	2023
+ARTIST:Avowal	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Michael_Patrick_Kelly	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Crom	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Roland_Kaiser	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:badmómzjay	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Subatomic_Sound_System	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Lee_Fields_&_the_Expressions	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2023
+ARTIST:Mutabor	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Uuhai	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Marteria	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Ostblockschlampen	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Se_Vende_Rincon	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Raven	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Dymna_Lotva	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Vrîmuot	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:My_Dying_Bride	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Tom_Gregory	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Die_Verlierer	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Lilly_Palmer	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Dinosaur_Jr.	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Lostboi_Lino	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Lee_Fields	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Juju	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:cosby	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:BĘÃTFÓØT	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Swiss_+_Die_Andern	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Jihad	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Gospelheim	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Lostboi_Lino	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Saitün	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Schmyt	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Voodoo_Jürgens	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:RAYE	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Blitz_Union	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Roland_Kaiser	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2023
+ARTIST:The_Spirit	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Hot_Water_Music	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:H.E.A.T	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Dilla	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Disillusion	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Ross_the_Boss	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Will_Butler_+_Sister_Squares	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Master	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Beauty_School_Dropout	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Audio88_&_Yassin	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Cavetown	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Total_Hate	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:NNHMN	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Charlotte_de_Witte	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:SALÒ	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Meshuggah	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Von_Wegen_Lisbeth	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Artur_&_Vanessa	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Anthony_B	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Joe_Leila	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Trespass	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Die_Toten_Hosen	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Drei_Meter_Feldweg	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Donots	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:KYTES	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Hass	performs_at_festival	FESTIVAL:Punk Im Pott	2023
+ARTIST:Nina_Kraviz	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:The_1975	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Zugezogen_Maskulin	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Purify	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Ann_Clue	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Hansemädchen	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Sharktank	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:PaulWetz	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Slagmaur	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:NUGAT	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Brew_Berrymore	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Michael_Schulte	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2023
+ARTIST:Tina_Dickow	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Rome	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Die_Krupps	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Gregor_Meyle	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Ava_Max	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Siegfried_&_Roy	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Two_Door_Cinema_Club	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Adriatique	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Alessandro_Pola	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2023
+ARTIST:BUNT.	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:badmómzjay	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Nothing_But_Thieves	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Beth_Hart	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Fire_Horse	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Fifth_Angel	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Kabaka_Pyramid	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Majan	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Cloudy_June	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Lampe	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Evanescence	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Peter_Fox	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2023
+ARTIST:Alli_Neumann	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Bastille	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:orbit	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Metal_Church	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Acht_Eimer_Hühnerherzen	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:CAPRA	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Cassia	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Glen_Hansard	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:BHZ	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2023
+ARTIST:Revolverheld	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Signalfarbe_Schwarz	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Subway_to_Sally	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Warpaint	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Peter_Fox	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Die_Nerven	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:TALK	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:S.P.O.C.K	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Smoulder	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Querbeat	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Contradiction	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Afsky	performs_at_festival	FESTIVAL:ZappenDuster	2023
+ARTIST:Sacrifire	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Unzucht	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Gregor_Meyle	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Dekker	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:KYTES	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Lostboi_Lino	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Wizzard	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:FM_Belfast	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Tocotronic	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Rosi	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Pascow	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Been_Stellar	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Paul_Gerlinger	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Die_Apokalyptischen_Reiter	performs_at_festival	FESTIVAL:Feuertal	2023
+ARTIST:Beatsteaks	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Mayberg	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Get_Jealous	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Ville_Valo	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Desaster	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Alborosie	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Turnstile	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Shelter_Boy	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:OK_KID	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Lakeside_X	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Bitterness	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Öwnboss	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Lotte	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Ida_Mae	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Exilia	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Calva_Y_Nada	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Provinz	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:No_Angels	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Bianca_Stücker_&_Mark_Benecke	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Jack_Johnson	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:The_Martinez_Brothers	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:FEVER_333	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:JEREMIAS	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Stick_to_Your_Guns	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:Von_Wegen_Lisbeth	performs_at_festival	FESTIVAL:Appletree Garden Festival	2023
+ARTIST:Helleruin	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Saturnus	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Loyle_Carner	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Saor	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Wilhelmine	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Thurnin	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Ellie_Goulding	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Sven_Väth	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Xavier_Rudd	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Wolves_of_War	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:pogendroblem	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Mars_Red_Sky	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:FJØRT	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Nina_Chuba	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Oberer_Totpunkt	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Project-X	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Miu	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2023
+ARTIST:K.I.Z	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Dirkschneider	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Halestorm	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Erobique	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Nina_Chuba	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Vemod	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Tailgunner	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Pip_Blom	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Les_Berrtas	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Rasco	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Symba	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Schreng_Schreng_&_La_La	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Lena&Linus	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Vive_la_Fête	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Dan_Deacon	performs_at_festival	FESTIVAL:Appletree Garden Festival	2023
+ARTIST:AURORA	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Joya_Marleen	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Rue_Oberkampf	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Foo_Fighters	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Sum_41	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Deep_Purple	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Daði_Freyr	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Hollywood_Vampires	performs_at_festival	FESTIVAL:Summer in the City	2023
+ARTIST:Chaos_and_Confusion	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Defocus	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:The_Black_Keys	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Carpenter_Brut	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Charley	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Dödsrit	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Buntspecht	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Mathew_Jonson	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:CHVRCHES	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Messa	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:mgk	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Subway_to_Sally	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Koenix	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Provinz	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Donkey_Kid	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Helge_Schneider	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Marco_Carola	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Blond	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Bloodjob	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:Genocide	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Florence_Black	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Hailmary	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Treesha	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:1476	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Steel_Panther	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Herzel	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:MELE	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Thees_Uhlmann	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Protoje	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:The_Notwist	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:MOREA	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:The_Lathums	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Will_Church	performs_at_festival	FESTIVAL:Unser Song Für	2023
+ARTIST:Girl_Scout	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:makko	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:metty	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Dermot_Kennedy	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Reinier_Zonneveld	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Spoon	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:cleopatrick	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Lyschko	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Odd_Couple	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Power_Plush	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Von_Wegen_Lisbeth	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Bruckner	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Maggie_Lindemann	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Bilderbuch	performs_at_festival	FESTIVAL:Appletree Garden Festival	2023
+ARTIST:Zoodrake	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Kings_of_Leon	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Prager_Handgriff	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Truckfighters	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:The_Halo_Effect	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:RIN	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Mica_Millar	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2023
+ARTIST:Scarlet_Dorn	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Clueso	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Aitch	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Talco	performs_at_festival	FESTIVAL:Punk Im Pott	2023
+ARTIST:Fehlfarben	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Calico_Jack	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Peter_The_Human_Boy	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Outlaw	performs_at_festival	FESTIVAL:ZappenDuster	2023
+ARTIST:Picture_This	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Profanity	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Maeckes	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Anica_Russo	performs_at_festival	FESTIVAL:Unser Song Für	2023
+ARTIST:Blond	performs_at_festival	FESTIVAL:Appletree Garden Festival	2023
+ARTIST:Queens_of_the_Stone_Age	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Kelvin_Jones	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Pippo_Pollina	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Rabengott	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Focus.	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:VENUES	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:Rotting_Empire	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Jamie_Jones	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Tash_Sultana	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Edwin_Rosen	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Ironflame	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Strobo.Lolita	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Witchslayer	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Dropkick_Murphys	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Lealani	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Clueso	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Bullet_for_My_Valentine	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Jizzle	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Orange_Goblin	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Lars_Eidinger	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Philine_Sonny	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:DYLAN	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Flotsam_and_Jetsam	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Noga_Erez	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:ELIF	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Mega_Colossus	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Riot_V	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Pornthegore	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Blumengarten	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Das_Pack	performs_at_festival	FESTIVAL:Elbriot	2023
+ARTIST:Elvenpath	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Legion_of_the_Damned	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Chaos_Path	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Swiss_+_Die_Andern	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:League_of_Distortion	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Berserker	performs_at_festival	FESTIVAL:G.O.N.D.	2023
+ARTIST:Traitor	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Cat_Burns	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Trettmann	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Blind_Illusion	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Ikke_Hüftgold	performs_at_festival	FESTIVAL:Unser Song Für	2023
+ARTIST:Tröjan	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Ben_Howard	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Dropkick_Murphys	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Die_Fantastischen_Vier	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Odium	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Tropikel_Ltd	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Tokio_Hotel	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Those_Damn_Crows	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Ravager	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Beth_Hart	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2023
+ARTIST:Kaffkiez	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Dilla	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Schock	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Ska-P	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:TAG_MY_HEART	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:James_Bay	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Gregor_McEwan	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Palace	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:The_Goa_Express	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Frog_Leap	performs_at_festival	FESTIVAL:Elbriot	2023
+ARTIST:Temmis	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Nothing_But_Thieves	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Inna_De_Yard	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Employed_to_Serve	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Marteria	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Thatcher	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Zeck	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Yukno	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:muff_potter.	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:Mayberg	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Betterov	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2023
+ARTIST:Blood_Star	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:badmómzjay	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Chico_Trujillo	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:OneRepublic	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Sonja_Moonear	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Crone	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Half_Me	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:Tar_Pond	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Metalucifer	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Dire_Straits_Experience	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:DITZ	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Steel_Beans	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:The_Scratch	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Bastille	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Ellie_Dixon	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:BHZ	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:DMA’s	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Brutus	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Imagine_Dragons	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Thees_Uhlmann	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:SATARII	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Vomito_Negro	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Heaven_Shall_Burn	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Vicious_Rumors	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Combichrist	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Amelie_Lens	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Feine_Sahne_Fischfilet	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2023
+ARTIST:Róisín_Murphy	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Shannon_and_the_Clams	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:NOFX	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Goregonzola	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:L’Âme_Immortelle	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Leoniden	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Jason_Derulo	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Wilhelmine	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:2nd_Face	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Zimmer90	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Domiziana	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Megaton_Sword	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Welle:_Erdball	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Fer_de_Lance	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:The_Raven_Age	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Reznik	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:GHOSTWOMAN	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Crystal_Viper	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Acid	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Jinjer	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:anaïs	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Incubus	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Rezet	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Enemy_Inside	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Griffin	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Elixir	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Richie_Hawtin	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Bedless_Bones	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Sölicitör	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Patty_Gurdy	performs_at_festival	FESTIVAL:Unser Song Für	2023
+ARTIST:The_Valkyrians	performs_at_festival	FESTIVAL:Punk Im Pott	2023
+ARTIST:Diorama	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Stick_to_Your_Guns	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Witchunter	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Visigoth	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Flo_Mega	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Bewitched	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Bring_Me_the_Horizon	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Simply_Red	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Empyreal	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Alex_Mofa_Gang	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:SynthAttack	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Die_Nerven	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Dieversity	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Vicious_Rumors	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Willkuer	performs_at_festival	FESTIVAL:G.O.N.D.	2023
+ARTIST:Sondaschule	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Limp_Bizkit	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Disarstar	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Potochkine	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Pennywise	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Motionless_in_White	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Karo_Lynn	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Domiziana	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:BHZ	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Nasty	performs_at_festival	FESTIVAL:Elbriot	2023
+ARTIST:YONAKA	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Spectral_Wound	performs_at_festival	FESTIVAL:ZappenDuster	2023
+ARTIST:Johannes_Oerding	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Mehnersmoos	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Biig_Piig	performs_at_festival	FESTIVAL:Appletree Garden Festival	2023
+ARTIST:Kerala_Dust	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Alle_Farben	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Talco	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Q5	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Anny_Ogrezeanu	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:K.I.Z	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Royel_Otis	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Darkher	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Afsky	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Mother’s_Cake	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Drunken_Masters	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Clan_of_Xymox	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Tower	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Arch_Enemy	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Dota	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:Pantha	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Blond	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Mind_Enterprises	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:¡Pendejo!	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Michael_Patrick_Kelly	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:The_Lumineers	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Paula_Carolina	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:badmómzjay	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Martin_Garrix	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Mantar	performs_at_festival	FESTIVAL:Elbriot	2023
+ARTIST:Kid_Simius	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:The_Pale_White	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:E-L-R	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Andreas_Kümmert	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Mia_Morgan	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Mando_Diao	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Sweet_Savage	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Tom_Gregory	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Hollywood_Vampires	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Lord_of_the_Lost	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Frank_Turner	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Massive_Wagons	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Lola_Marsh	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Joseph_Capriati	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Phantom_Spell	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:RAZZ	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:The_Unity	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Bukahara	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:GAYLE	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:makko	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:L.A._Edwards	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Black_Sea_Dahu	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Viper_Queen	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Peter_Fox	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Elena_Rud	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Escoban	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Empathy_Test	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Solitary_Experiments	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Gorilla_Club	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Richard_Bona	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2023
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Die_Kassierer	performs_at_festival	FESTIVAL:Elbriot	2023
+ARTIST:Deine_Lakaien	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Ecclesia	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Speedemon	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Three_Days_Grace	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Jan_Delay_&_Disko_No._1	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Dax_J	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:The_Vision_Bleak	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Ewan_Mainwood	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Thee_Sacred_Souls	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Generation_Sex	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Verifiziert	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2023
+ARTIST:Steve_Aoki	performs_at_festival	FESTIVAL:Airbeat One Festival	2023
+ARTIST:The_Haunted_Youth	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Uche_Yara	performs_at_festival	FESTIVAL:Appletree Garden Festival	2023
+ARTIST:The_Crown	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Mezzrow	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Barrington_Levy	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Garda	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Slander	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:070_Shake	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Olaf_(der_Flipper)	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Danger_Dan	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:PaulWetz	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Watchtower	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Sublind	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:Selofan	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Loco_Escrito	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Silverlane	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Feuerschwanz	performs_at_festival	FESTIVAL:Feuertal	2023
+ARTIST:Lord_of_the_Lost	performs_at_festival	FESTIVAL:Unser Song Für	2023
+ARTIST:Sound_Rush	performs_at_festival	FESTIVAL:Airbeat One Festival	2023
+ARTIST:Berq	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Whispering_Sons	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Marquis_de_Sade	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Jerry_Leger_&_The_Situation	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Olivia_Dean	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Misþyrming	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:ETELLA	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Charlotte_Adigéry_&_Bolis_Pupul	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Slomosa	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:Power_Plush	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:The_Interrupters	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Venom_Inc.	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Front_242	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:A.S._Fanning	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:SDP	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:The_Devil_&_the_Universe	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Motorjesus	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:Peter_Fox	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Geoff_Tate	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Porcupine_Tree	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Agalloch	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Mod_Sun	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Funeral_for_a_Friend	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Charlotte_Sands	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Andrea_Oliva	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Pabst	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Diary_of_Dreams	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Accidental_Bird	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Placebo	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Wind_Rose	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Henrik_Freischlader	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2023
+ARTIST:The_Baboon_Show	performs_at_festival	FESTIVAL:Punk Im Pott	2023
+ARTIST:Nena	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Acid_King	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Brunhilde	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Dominik_Eulberg	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:The_Blessed_Madonna	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Liv_Warfield	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2023
+ARTIST:Broilers	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Eric_Fish_&_Friends	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Querbeat	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Thees_Uhlmann	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Gràb	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Taylor_Acorn	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Millencolin	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:[:SITD:]	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Christian_Lee_Hutson	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Rocko_Schamoni	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Koenix	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Desaster	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:Isn't	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:Deborah_De_Luca	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Marteria	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Adel_Tawil	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Kaiser_Quartett	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:BOUNTY_&_COCOA	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Spiritbox	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Unzucht	performs_at_festival	FESTIVAL:Feuertal	2023
+ARTIST:Kasi	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Yoth_Iria	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Son_Mieux	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Insanity_Alert	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:NAXEN	performs_at_festival	FESTIVAL:ZappenDuster	2023
+ARTIST:Simply_Red	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:XTR_Human	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Lord_of_the_Lost	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Albrecht_Schrader	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Arlo_Parks	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Enforcer	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Pillow_Queens	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Fïx8:Sëd8	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:TYNA	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:GULVØSS	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Placebo	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Mondo_Generator	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:Aeonblack	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:The_War_on_Drugs	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Bury_Tomorrow	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Ricardo_Villalobos	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Donkey_Kid	performs_at_festival	FESTIVAL:Appletree Garden Festival	2023
+ARTIST:GHOSTWOMAN	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:Bukahara	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Tristan_Brusch	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:Nachtmahr	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:THUMPER	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Girl_and_Girl	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Janus	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Winterfylleth	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Pressyes	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:ÄTNA	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:End_of_Transmission	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Year_of_the_Cobra	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Popcaan	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Brockhoff	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:SDP	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Bosse	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Bilderbuch	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:PaulWetz	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Tanya_Stephens	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Deaf_Havana	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Holy_Moses	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:RIN	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Jazzanova	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Blush_Always	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Silbermond	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2023
+ARTIST:Antje_Schomaker	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Moop_Mama	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Martin_Kohlstedt	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:Tenacious_D	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Flyswatter	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Cirith_Ungol	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Schmyt	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Nanowar_of_Steel	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Gojira	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Jaz_Elise	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Sol_Sistere	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Dilla	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2023
+ARTIST:Die_Ärzte	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:The_BossHoss	performs_at_festival	FESTIVAL:Unser Song Für	2023
+ARTIST:Kobosil	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Blancmange	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Omen	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Van_Holzen	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Michael_Schulte	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Paula_Paula	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:Fury_in_the_Slaughterhouse	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Schmeisig	performs_at_festival	FESTIVAL:Punk Im Pott	2023
+ARTIST:Distant_Past	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Levin_Liam	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:TWO_LANES	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:LANDMVRKS	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:Incubus	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Nessa_Barrett	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:To_Avoid	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Die_Ärzte	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:TRAITRS	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:LGoony	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Zara_Larsson	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Sharktank	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Dry_Cleaning	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Rolf_Blumig	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Kid_Kapichi	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Yusuf_Islam	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Rødhåd	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Dry_Cleaning	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:Warpath	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Kasi	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Statiqbloom	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Monolink	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Loco_Dice	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Nocturnal	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Rogers	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Luigi_Madonna	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Love'n'Joy	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Lùisa	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Caliban	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:Florian_Künstler	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2023
+ARTIST:You_Me_at_Six	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:I_Hate_Models	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:RROYCE	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Bömbers	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Die_Toten_Hosen	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Shamrock	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:The_Foxies	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Herrenmagazin	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Betterov	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Fink	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Savvy	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Klangkuenstler	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Kaffkiez	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:The_Deslondes	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Cari_Cari	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Tocotronic	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Maxïmo_Park	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Protz	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Lonely_Spring	performs_at_festival	FESTIVAL:Unser Song Für	2023
+ARTIST:Tonbandgerät	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:CRO	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Brockhoff	performs_at_festival	FESTIVAL:Noisehausen Festival	2023
+ARTIST:Centhron	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Boy_Bleach	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Hilltop_Hoods	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Nemuer	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Set_It_Off	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Gotthard	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Adam_Beyer	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Baby_Queen	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Ill_Tidings	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Bon_Iver	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Blond	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Claymorean	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Sondaschule	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:BHZ	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Mike_+_the_Mechanics	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Domiziana	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Trettmann	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Trettmann	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Generation_Steel	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Icarus_Witch	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Snakebite	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:orbit	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:SOJA	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Demons_Dream	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Kolsch	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Abramowicz	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Blond	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:BBQ	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Kite	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:The_Other	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:MARYAM.fyi	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:The_Treatment	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Team_Scheisse	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:The_Amazons	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Stefan_Baumann	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Extinction	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Bruckner	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Deutsch_Amerikanische_Freundschaft	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Boysetsfire	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Marteria	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:DEVO	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Nik_West	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2023
+ARTIST:Earth_Tongue	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:Depressive_Age	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Madsen	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Flowin_Immo	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Parasite_Inc.	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:Trọng_Hiếu	performs_at_festival	FESTIVAL:Unser Song Für	2023
+ARTIST:999999999	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Zahn	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:Dixon	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Laster	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Extinction_A.D.	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Subatomic_Sound_System	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Carcass	performs_at_festival	FESTIVAL:Elbriot	2023
+ARTIST:Maceo_Plex	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Architects	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Neunundneunzig	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Blond	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Brings	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Gama_Bomb	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2023
+ARTIST:Covenant	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Julia_Gilde	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:The_toten_Crackhuren_im_Kofferraum	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2023
+ARTIST:Tenacious_D	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Alice_Merton	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Andreas_Kalb	performs_at_festival	FESTIVAL:Metal im Woid	2023
+ARTIST:Wolfmother	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Muse	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Versus_Goliath	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Grand_Old_Wrath	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Calum_Scott	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Hierophant	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Flogging_Molly	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:La_Pegatina	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Karloff	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:Sans-Fin	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Ava_Max	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Nile_Rodgers_&_Chic	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Messiah_Force	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Atlantean_Kodex	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:My_Ugly_Clementine	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Johannes_Oerding	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Trym	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Symba	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2023
+ARTIST:A_Life_Divided	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Ashbury_Heights	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Brian_Downey’s_Alive_and_Dangerous	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Vanguard	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Shores_of_Ladon	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:The_Chats	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:John_Scofield_Trio	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2023
+ARTIST:Krawallbrüder	performs_at_festival	FESTIVAL:G.O.N.D.	2023
+ARTIST:FiNCH	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Shred_Kelly	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Buried_in_Smoke	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Corvus_Corax	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Querbeat	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Kind_Kaputt	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:strongboi	performs_at_festival	FESTIVAL:Appletree Garden Festival	2023
+ARTIST:Greyhound	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Naomi_Cowan	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Rotz_&_Wasser	performs_at_festival	FESTIVAL:G.O.N.D.	2023
+ARTIST:Lauren_Sanderson	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Vultures_Vengeance	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Temmis	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:QNTAL	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Dominik_Hartz	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Zeraphine	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Palila	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Medium_Build	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Akne_Kid_Joe	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Mortician	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:$ONO$_CLIQ	performs_at_festival	FESTIVAL:Kimiko Festival	2023
+ARTIST:Hollywood_Vampires	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Korpiklaani	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Andy_Frasco_&_The_U.N.	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:M83	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Hollywood_Undead	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Triumpher	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Exorcizphobia	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Emil_Bulls	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Amethyst	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Black_Sea_Dahu	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Truth_&_Tragedy	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Karotte	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Blumengarten	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:Old_Mother_Hell	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:$OHO_BANI	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Wiegand	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Boytronic	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Import_Export	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Nekkromaniac	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:Kraftklub	performs_at_festival	FESTIVAL:Happiness Festival	2023
+ARTIST:WrestleManiacs	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:Jack_Johnson	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Seven_Sisters	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:The_Murder_Capital	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Die_Nerven	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Hot_Milk	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:BRKN	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Kraftklub	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Bloodspot	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2023
+ARTIST:RotoR	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:Wilhelmine	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Pascow	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Billy_Talent	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Talco	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Chris_Bay	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Parade_Ground	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:anaïs	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:01099	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Eros_Ramazzotti	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2023
+ARTIST:Wrang	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Das_Ich	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Kinga_Głyk	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2023
+ARTIST:The_Menzingers	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Donkey_Kid	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:CATT	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Jacob_Collier	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Sanhedrin	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Illudium	performs_at_festival	FESTIVAL:Prophecy Fest	2023
+ARTIST:Xentrix	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Lime_Garden	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Blumengarten	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:FKJ	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Harpyie	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:BAP	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Abbie_Falls	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Nyte_Light	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Grossstadtgeflüster	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:xotox	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Whispers_in_the_Shadow	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Verifiziert	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Thees_Uhlmann	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Ashnikko	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Soulburn	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Schöngeist	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Sodom	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:DAMONA	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Doro	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Seraina_Telli	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:MADMADMAD	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:AYLIVA	performs_at_festival	FESTIVAL:KUNST!Rasen	2023
+ARTIST:Nina_Chuba	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Pagan_Altar	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:CRO	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2023
+ARTIST:S.P.O.C.K	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Sophie_Hunger	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Tanzwut	performs_at_festival	FESTIVAL:Hörnerfest	2023
+ARTIST:Helge_Schneider	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:NER\OGRIS	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Hollywood_Vampires	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:Imperium_Dekadenz	performs_at_festival	FESTIVAL:ZappenDuster	2023
+ARTIST:Querbeat	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:SKAAR	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Team_Scheisse	performs_at_festival	FESTIVAL:Punk Im Pott	2023
+ARTIST:Seth_Troxler	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:The_Blaze	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Element_of_Crime	performs_at_festival	FESTIVAL:Citadel Music Festival	2023
+ARTIST:badmómzjay	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Edwin_Rosen	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:L’Impératrice	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Nattali_Rize	performs_at_festival	FESTIVAL:SummerJam	2023
+ARTIST:Takeshi’s_Cashew	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Sanhedrin	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Steve_Gadd_Band	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2023
+ARTIST:The_Haunted_Youth	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Sleaford_Mods	performs_at_festival	FESTIVAL:Watt en Schlick	2023
+ARTIST:DJ_Koze	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:nothing_nowhere.	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Sodom	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Majan	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:TC75	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Sweet_Needles	performs_at_festival	FESTIVAL:Sinner Rock Festival	2023
+ARTIST:Horresque	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Hällas	performs_at_festival	FESTIVAL:Hoflärm	2023
+ARTIST:MORTEN	performs_at_festival	FESTIVAL:Airbeat One Festival	2023
+ARTIST:Act_of_Creation	performs_at_festival	FESTIVAL:No Playback Festival	2023
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Ambush	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Sigue_Sigue_Sputnik	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Temmis	performs_at_festival	FESTIVAL:Appletree Garden Festival	2023
+ARTIST:Silverstein	performs_at_festival	FESTIVAL:Rock am Ring	2023
+ARTIST:Evil_Invaders	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:Fuchsteufelswild	performs_at_festival	FESTIVAL:Feuertal	2023
+ARTIST:BHZ	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Boötes_Void	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Wa22ermann	performs_at_festival	FESTIVAL:c/o pop Festival	2023
+ARTIST:Zero_Degree	performs_at_festival	FESTIVAL:Metal Franconia Festival	2023
+ARTIST:Fvneral_Fvkk	performs_at_festival	FESTIVAL:Storm Crusher Festival	2023
+ARTIST:Heavysaurus	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2023
+ARTIST:Boris_Brejcha	performs_at_festival	FESTIVAL:Time Warp Germany	2023
+ARTIST:Tyrant	performs_at_festival	FESTIVAL:Keep It True	2023
+ARTIST:SERPENTIN	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Goitzsche_Front	performs_at_festival	FESTIVAL:G.O.N.D.	2023
+ARTIST:Darvaza	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Dean_Lewis	performs_at_festival	FESTIVAL:Stadtpark Open Air	2023
+ARTIST:Enter_Shikari	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Baby_B3ns	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Ambush	performs_at_festival	FESTIVAL:Taunus Metal Festival	2023
+ARTIST:Orchestral_Manoeuvres_in_the_Dark	performs_at_festival	FESTIVAL:Amphi Festival	2023
+ARTIST:Turbostaat	performs_at_festival	FESTIVAL:Highfield Festival	2023
+ARTIST:Olivia_Dean	performs_at_festival	FESTIVAL:SUPERBLOOM	2023
+ARTIST:Coach_Party	performs_at_festival	FESTIVAL:Rolling Stone Beach	2023
+ARTIST:Die_Weisse_Rose	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2023
+ARTIST:Krater	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2023
+ARTIST:Backstabbed	performs_at_festival	FESTIVAL:Easter Cross Festival	2023
+ARTIST:Eli_Preiss	performs_at_festival	FESTIVAL:Campus Festival	2023
+ARTIST:Enter_Shikari	performs_at_festival	FESTIVAL:Hurricane Festival	2023
+ARTIST:Water_From_Your_Eyes	performs_at_festival	FESTIVAL:MS Dockville	2023
+ARTIST:Husten	performs_at_festival	FESTIVAL:Orange Blossom Special	2023
+ARTIST:Dornenreich	performs_at_festival	FESTIVAL:Prophecy Fest	2023

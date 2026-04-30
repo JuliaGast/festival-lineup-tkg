@@ -1,0 +1,1171 @@
+ARTIST:Avenged_Sevenfold	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Eïs	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Bibiza	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Schimmerling	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Paula_Carolina	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Glockenbach	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Alec_Benjamin	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Coach_Party	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Morvigor	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Reinier_Zonneveld	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Demon	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Blackevil	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Bukahara	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Hexvessel	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Nile_Rodgers_&_Chic	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Tony_Ann	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Combichrist	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Keane	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:The_Devil’s_Trade	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Then_Comes_Silence	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:The_Flight_of_Sleipnir	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:blackwave.	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Anda_Morts	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Lime_Cordiale	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Bosse	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Milliarden	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:OneRepublic	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Berserker	performs_at_festival	FESTIVAL:G.O.N.D.	2024
+ARTIST:Dropkick_Murphys	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Dominik_Hartz	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Alfie_Castley	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Thief	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Charlotte_de_Witte	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Corey_Taylor	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Riot_City	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Doro	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:EARTH_SHIP	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Gurriers	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Betterov	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Finntroll	performs_at_festival	FESTIVAL:Hörnerfest	2024
+ARTIST:Noga_Erez	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:The_Dead_South	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Mängelexemplar	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Crown_Magnetar	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Atrophy	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Crystal_Viper	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Scooter	performs_at_festival	FESTIVAL:Happiness Festival	2024
+ARTIST:Faber	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Unto_Others	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:CRASHDÏET	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:Level_42	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Piołun	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Pur	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:The_O’Reillys_and_the_Paddyhats	performs_at_festival	FESTIVAL:Feuertal	2024
+ARTIST:The_Subways	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Schammasch	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Editors	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Korn	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Countess	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Nura	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:InnerSphere	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:Sam_Smith	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Manfred_Mann’s_Earth_Band	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:Kilean812	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:badchieff	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:ENNY	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Zartmann	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Paradise_Lost	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Vision_Denied	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Me_First_and_the_Gimme_Gimmes	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:The_Chainsmokers	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Jake_Bugg	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Mando_Diao	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:MandelKokainSchnaps	performs_at_festival	FESTIVAL:Punk Im Pott	2024
+ARTIST:Praying_Mantis	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Teuterekordz	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Alice_Cooper	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:JEREMIAS	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Dolmen_Gate	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:PAULINKO	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:The_Scratch	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:The_Effect	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Palila	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Silbermond	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:The_Last_Internationale	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Northern_Lite	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Y&T	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:T.O.Y.	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Status_Quo	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Die_Sterne	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Richie_Hawtin	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:MIKA	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Bess_Atwell	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:iedereen	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Klangstabil	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Mayberg	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Die_Sterne	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:Witherfall	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Juli	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Funk_Tribu	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Friko	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Martyr	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Fabulous_Disaster	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:DIKKA	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Flying_Lotus	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Dire_Straits_Experience	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Valentino_Vivace	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Pom_Pom_Squad	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Paula_Carolina	performs_at_festival	FESTIVAL:Happiness Festival	2024
+ARTIST:Toto	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Tarot	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Solstice	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Black_Heart_Prophet	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:The_Ruins_of_Beverast	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Peter_Doherty	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Jack_Savoretti	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:The_Vaccines	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Ruined_Conflict	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Marc_Rebillet	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:End_of_Green	performs_at_festival	FESTIVAL:Feuertal	2024
+ARTIST:DARK	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Kapa_Tult	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:freekind.	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Corb_Lund	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Sonja	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Henric_de_La_Cour	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:William_The_Conqueror	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Crisix	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Night_Demon	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Alignment	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Hocico	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Bess_Atwell	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Ah_Cama-Sotz	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:diggidaniel	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Afrodiziac	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Endseeker	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Enrico_Sangiuliano	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Sacri_Monti	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Faderhead	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:MEUTE	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Arð	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:The_Interrupters	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Cera_Khin	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Wayne_Graham	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Scarlet_Dorn	performs_at_festival	FESTIVAL:Feuertal	2024
+ARTIST:The_Smile	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Cloudy_June	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Greta_Van_Fleet	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Alligatoah	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Konshens	performs_at_festival	FESTIVAL:SummerJam	2024
+ARTIST:King_Kong_Kicks	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Wa22ermann	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Kid_Simius	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Dopethrone	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Georgia	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Candy_Dulfer	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:fiio	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Velvet_Viper	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:LEA	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Ritter_Lean	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Bloodsucking_Zombies_From_Outer_Space	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Kevin_de_Vries	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Birdy	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:Sido	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Get_Jealous	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Triggerfinger	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Eradicator	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Ante-Inferno	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Andreas_Dorau	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Abarra	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Boston_Manor	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Madd9	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:$OHO_BANI	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Wucan	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Kettcar	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Praise_the_Plague	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Wings_of_Steel	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Dax_J	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Tunde	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Ruby_Waters	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Pennywise	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Aesthetic_Perfection	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Hinterlandgang	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2024
+ARTIST:Kim_Larsen	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Dogstar	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Tränen	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:Deine_Freunde	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Mercury_Rev	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:$OHO_BANI	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:HERIOT	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Evan_Dando	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Thronehammer	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Tränen	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Black_Mountain	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Bendik_Giske	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Ivo_Martin	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Invictus	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:CATT	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:porij	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:K.I.Z	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Mr._Hurley_&_Die_Pulveraffen	performs_at_festival	FESTIVAL:Feuertal	2024
+ARTIST:Callejon	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Dave_Stewart	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Peaches	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Brockhoff	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:Sea_Girls	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:The_Last_Gang	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Tränen	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Broilers	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Body_Count	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Berq	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Vandalisbin	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Timmy_Trumpet	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Gossip	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Leather	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Husten	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Beyond_the_Black	performs_at_festival	FESTIVAL:Elbriot	2024
+ARTIST:Alltheniko	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Dimitri_Vegas_&_Like_Mike	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Scheisse_Minnelli	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Mindwars	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Zeraphine	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Mette	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Get_Dead	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Falschgeld	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Loyle_Carner	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Ellereve	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Lights_of_Euphoria	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Wings_of_Steel	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Bring_Me_the_Horizon	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:xotox	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:BABYMETAL	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Die_Selektion	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Malik_Harris	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2024
+ARTIST:Diary_of_Dreams	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:NNHMN	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Il_Civetto	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:DEBBY_FRIDAY	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Enno_Bunger	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:SPRINTS	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Jeff_Lorber_Fusion_feat._Jimmy_Haslip	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:The_Last_Dinner_Party	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Cursive	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Alcest	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Tyrann	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Altın_Gün	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Avralize	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Jimmy_Cornett_and_the_Deadmen	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:Skillibeng	performs_at_festival	FESTIVAL:SummerJam	2024
+ARTIST:Von_Wegen_Lisbeth	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Eisbrecher	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Marta_Gabriel	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Chopped_in_Half	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Patrick_Mason	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Zoe_Wees	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Deborah_De_Luca	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Victoria_Canal	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Baby_B3ns	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:Antje_Schomaker	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Tream	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Against_the_Current	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Sentry	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Sirens_of_Lesbos	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Cari_Cari	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Ouzo_Bazooka	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Juse_Ju	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Honey_Dijon	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Annisokay	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Fast_Boy	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Machine_Head	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Ponte_del_Diavolo	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Sons_of_Eternity	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:PaulWetz	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Kryptos	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Velvet_Viper	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Neuroticfish	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Pulley	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Kickin_Valentina	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:Kreator	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:MISSIO	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:GULVØSS	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:High_Vis	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Charlotte_Brandi	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:IDLES	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Shitney_Beers	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Steelpreacher	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2024
+ARTIST:Animalize	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Born_of_Osiris	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Scooter	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Luis_Ake	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:Scene_Queen	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Álvaro_Soler	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:The_Teskey_Brothers	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:The_Offspring	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Darkest_Era	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Susan_O’Neill	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:Jeshi	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Bierbabes	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Graveyard	performs_at_festival	FESTIVAL:Elbriot	2024
+ARTIST:Valborg	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Spiritbox	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Kabinett	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Poison_Ruïn	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Friedberg	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Triptykon	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:86TVs	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Descendents	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Cirith_Ungol	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Miss_Monique	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:Happiness Festival	2024
+ARTIST:And_One	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:LANDMVRKS	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Jason_Isbell_and_the_400_Unit	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:CRO	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Kobosil	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Groza	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Golden_Apes	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Avril_Lavigne	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Klutæ	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Attila	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Plume	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Loyle_Carner	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Greta_Van_Fleet	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Kerrigan	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Aux_Animaux	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Kaffkiez	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Ronan_Keating	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:Counterparts	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Oehl	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:What_Are_People_For?	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Goethes_Erben	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Joy_Denalane	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Black_Mirrors	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Kevin_Morby	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Silbermond	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Savage_Oath	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Thee_Sacred_Souls	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Kvelertak	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Crom	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Welded	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Tropikel_Ltd	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Cemetery_Sun	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Mochakk	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Austere	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Levellers	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Loco_Dice	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:My_Ugly_Clementine	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Flawless_Issues	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Asha_Jefferies	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Kiasmos	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Antje_Schomaker	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Guano_Apes	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Circle_Jerks	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:End_of_Transmission	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Kerry_King	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Body_Count	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Pablo_Brooks	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Electric_Callboy	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Pashanim	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Annett_Louisan	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:I_Hate_Models	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Bury_Tomorrow	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Only_The_Poets	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Provinz	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Il_Civetto	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:A_Place_to_Bury_Strangers	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Silbermond	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2024
+ARTIST:Moop_Mama	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Shamrock	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:LEILA	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Disarstar	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Fortíð	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Victory	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Róisín_Murphy	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Legendry	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:The_Amazons	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Triumph_of_Death	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:The_Spirit	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2024
+ARTIST:Big_Special	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Sondaschule	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:RAPK	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Cloudy_June	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Ilgen‐Nur	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Heavy_Metal_Barpiano	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Pennywise	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Gossip	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Laura_Lee_&_the_Jettes	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:YĪN_YĪN	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Cari_Cari	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:ZZ_Top	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Primordial	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:Adam_Beyer	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Juju	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Rogers	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:James_And_The_Cold_Gun	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Brutus	performs_at_festival	FESTIVAL:Elbriot	2024
+ARTIST:Katha_Pauer	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Stoned_Jesus	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Red_to_Grey	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:Roachford	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Joyhauser	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Grave_Digger	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Kaelte	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Spiritbox	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Auger	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Mando_Diao	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Madsen	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Ostara	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Press_Club	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Endonomos	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:Tim_Vantol	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Enno_Bunger	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Marie_Reim	performs_at_festival	FESTIVAL:Unser Song Für	2024
+ARTIST:The_Beaches	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Die_Höchste_Eisenbahn	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Malva	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Tokio_Hotel	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Fuffifufzich	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:The_Sherlocks	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Arny_Margret	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Mine	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Groza	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Flowin_Immo	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Kant	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Rauhbein	performs_at_festival	FESTIVAL:Feuertal	2024
+ARTIST:999999999	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:ANOHNI_and_the_Johnsons	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:The_Luka_State	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Nick_Mason’s_Saucerful_of_Secrets	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Jamie_Cullum	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Bütcher	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Zucchero	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:Intöxicated	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2024
+ARTIST:Clueso	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Beborn_Beton	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Onslaught	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Becks	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Vengeance	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Magical_Heart	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:Panteón_Rococó	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Paula_Carolina	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Tora_DAA	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Sebastian_Hämer	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2024
+ARTIST:The_Dead_South	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Agent_Side_Grinder	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Postman	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Ikkimel	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:Jupiter_Flynn	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Abu_Nein	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:KYTES	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Tom_Walker	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Bibiza	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Acero_Letal	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Kraftklub	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Air	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Perchta	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Wolfgang_Haffner	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Chris_Liebing	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:John_Diva_&_The_Rockets_of_Love	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:Bengal_Tigers	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Orange_Sector	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Kevin_de_Vries	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:ZZ_Top	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Billy_Talent	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Tower_of_Power	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Timber_Timbre	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:The_Hives	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Cloak	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Alice_Merton	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:I_Am_Morbid	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Jas	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:Go‐Jo	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Imha_Tarikat	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Bleak_House	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Whiskey_Ritual	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:Kirlian_Camera	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:The_Amazons	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Parkway_Drive	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Ohrenfeindt	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Hailstone	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:Glass_Beams	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:MELE	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:T.A.N.K.	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Alex_Warren	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:3LNA	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:The_Slow_Show	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Peter_Heppner	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:LEA	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Lena	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:H-Blockx	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Bikini_Beach	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Kölsch	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Noise_Adventures	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Zimmer90	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Nothing_But_Thieves	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:ZZ_Top	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Principe_Valiente	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Obongjayar	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Gravety	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2024
+ARTIST:Loreen	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:The_Spirit	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Bragolin	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Descendents	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Esther_Graf	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Master_Peace	performs_at_festival	FESTIVAL:Appletree Garden Festival	2024
+ARTIST:The_Armed	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Mayberg	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Sean_Paul	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:$ONO$_CLIQ	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Warfield	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Die_Selektion	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Cerebral_Invasion	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Ziggy_Alberts	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Simple_Plan	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Mr._Irish_Bastard	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:Engst	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Magnus_Öström_&_Dan_Berglund	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Diana_Krall	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Craving	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Satanatics	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2024
+ARTIST:King_Gizzard_&_the_Lizard_Wizard	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Juli	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2024
+ARTIST:Bruckner	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Zeck	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:James_Arthur	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Querbeat	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Deki_Alem	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:rosmarin	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:ARTBAT	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Gentleman	performs_at_festival	FESTIVAL:SummerJam	2024
+ARTIST:Deep_Purple	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2024
+ARTIST:Ductape	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Frei.Wild	performs_at_festival	FESTIVAL:G.O.N.D.	2024
+ARTIST:The_Romp	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:William_Fitzsimmons	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Bonafide	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:Dark_Quarterer	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Paula_Hartmann	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Milky_Chance	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Resurrected	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:Trepaneringsritualen	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Marc_Rebillet	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Trym	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Morphose	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:TALK	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:MATTE_BLVCK	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Ronan_Keating	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Timber_Timbre	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:Ashnikko	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:The_Lathums	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:The_Silhouettes_Project	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Moop_Mama	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Krawallbrüder	performs_at_festival	FESTIVAL:G.O.N.D.	2024
+ARTIST:BLACKBOOK	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Loreena_McKennitt	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:Akne_Kid_Joe	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Spyro_Gyra	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Dillistone	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Deborah_De_Luca	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Sperling	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Har_Belex	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Burna_Boy	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Bukahara	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:Empyrium	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Bodine_Monet	performs_at_festival	FESTIVAL:Unser Song Für	2024
+ARTIST:Clueso	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:Fontaines_D.C.	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Ultra_Sunn	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Dimitri_K.	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Wytch_Hazel	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Leoniden	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Domiziana	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Olli_Schulz	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Bulldozer	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Stallion	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Verifiziert	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Die_zwangsversteigerten_Doppelhaushälften	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Mayberg	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Mila_Journée	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Grossstadtgeflüster	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Luca_Noel	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:The_Beauty_of_Gemina	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Flogging_Molly	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Moka_Efti_Orchestra	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:Oska	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2024
+ARTIST:Crimson_Glory	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Fatoni	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Milking_the_Goatmachine	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:TJARK	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Dilla	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:HANABIE.	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Die_Ärzte	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:The_Mysterines	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Silbermond	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:Sunken	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Black_Mask	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Rise_Against	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Maisie_Peters	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:The_Sherlocks	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Helge_Schneider	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Heavy_Kevy	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Leoniden	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:Bombay_Bicycle_Club	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Dying_Angel	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:ITCHY	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Stormwitch	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Dilla	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Jamie_Cullum	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Welle:_Erdball	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Spitfire	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Hellwitch	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:rosmarin	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Stormfågel	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:S.G._Goodman	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Tkay_Maidza	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Project_Pitchfork	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Paula_Carolina	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Aaron	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:J.B.O.	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Willow_Parlo	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:Negative_Approach	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Undertow	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Slope	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:ENNIO	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Skindred	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:High_Command	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Burna_Boy	performs_at_festival	FESTIVAL:SummerJam	2024
+ARTIST:Stella_Bossi	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Frank_Carter_&_the_Rattlesnakes	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Lord_Bishop_Rocks	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:Royal_Republic	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Stress	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Rachel_Chinouriri	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Ivo_Martin	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:NTO	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Peter_Fox	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:AYLIVA	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Enter_Shikari	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Siena_Root	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:JEREMIAS	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Germ	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Shitney_Beers	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Måneskin	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:HotWax	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Mina_Richman	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Errorr	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Fit_for_a_King	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Biohazard	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Niall_Horan	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Helleruin	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Klamm	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Marlo_Grosshardt	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Hell_Patröl	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Leoniden	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Black_Sachbak	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Bilderbuch	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Noah_Kahan	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Empyrium	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Century	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Morgul_Blade	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Pur	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:The_Bar_Stool_Preachers	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:102_Boyz	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:The_Invincible_Spirit	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Joy_Denalane	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:Kaffkiez	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Souly	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Die_Apokalyptischen_Reiter	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Hell_Fire	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:I_Hate_Models	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Sharaktah	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Equilibrium	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Greyhawk	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Seth_Troxler	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:RSS_Disco	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Ilona_Hartmann	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Nils_Keppel	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Armin_van_Buuren	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:April_Art	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:Fear_Factory	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Macklemore	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Indira_Paganotto	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:SERPENTIN	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:Motionless_in_White	performs_at_festival	FESTIVAL:Elbriot	2024
+ARTIST:Escape_With_Romeo	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Jungle	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Asagraum	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Skinner	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:dArtagnan	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:Tornet	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Zimmer90	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Slomatics	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Juse_Ju	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Pan-Pot	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Liz_Stringer	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Faun	performs_at_festival	FESTIVAL:Hörnerfest	2024
+ARTIST:Schattenmann	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Kokoroko	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Mortal_Peril	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Wanda	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:KAS:ST	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:ok.danke.tschüss	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Bibiza	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Team_Scheisse	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Roy_Bianco_&_Die_Abbrunzati_Boys	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Dirty_Loops	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:RIN	performs_at_festival	FESTIVAL:SummerJam	2024
+ARTIST:Haiyti	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:PJ_Harvey	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Signal_Aout_42	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Brutalismus_3000	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:The_New_Roses	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:FJØRT	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Sentry	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Roland_Kaiser	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2024
+ARTIST:Girls_Under_Glass	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Keane	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Selfish_Hate	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Ellis_Mano_Band	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2024
+ARTIST:French_79	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:iedereen	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:ITCHY	performs_at_festival	FESTIVAL:Punk Im Pott	2024
+ARTIST:Juli	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Nico_Santos	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Klez.e	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:While_She_Sleeps	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Redneck_Zömbiez	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Kenya_Grace	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:The_Dharma_Chain	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Wanda	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Benediction	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Kennedy_Administration	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Ansu	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Sulphur_Aeon	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Nasty_Savage	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:The_National	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Steve_Hackett	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Wa22ermann	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Amon_Amarth	performs_at_festival	FESTIVAL:Elbriot	2024
+ARTIST:Fen	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:The_Amity_Affliction	performs_at_festival	FESTIVAL:Elbriot	2024
+ARTIST:Marsimoto	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Horns_of_Domination	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Baum's_Bluesbenders	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Frankie_Stew_and_Harvey_Gunn	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Ritter_Lean	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:999999999	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Becky_Hill	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Donots	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Markus_Berges	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:NAXEN	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:makko	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Róisín_Murphy	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Black_Oak_County	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:Earthbong	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Sharaktah	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Basswell	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Nils_Landgren_Funk_Unit	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Rauhbein	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:Matthias_Reim	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:I_DONT_KNOW_HOW_BUT_THEY_FOUND_ME	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:makko	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Ife_Ogunjobi	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:The_Other	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Soul_Rabbi	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Dino_Brandão	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Underoath	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:David_Puentez	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Domiziana	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:RIN	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Rovar	performs_at_festival	FESTIVAL:Sinner Rock Festival	2024
+ARTIST:Silverstein	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Donkey_Kid	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Calexico	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:The_Red_Flags	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Entera	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2024
+ARTIST:The_Reytons	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Dernière_Volonté	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:The_National	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:IAMX	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Ignite	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Apashe	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Team_Scheisse	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Susan_O’Neill	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:Tyran	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Neaera	performs_at_festival	FESTIVAL:Elbriot	2024
+ARTIST:Jas	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Dekker	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:Heldmaschine	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:No_Fun_at_All	performs_at_festival	FESTIVAL:Punk Im Pott	2024
+ARTIST:Agrypnie	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Je_T’Aime	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Blumengarten	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Fortuna_Ehrenfeld	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Perchta	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:The_Meffs	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Lampe	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:My_Ugly_Clementine	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Wolcensmen	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Sloper	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Primordial	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Utopiae	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Kasi	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Ryk	performs_at_festival	FESTIVAL:Unser Song Für	2024
+ARTIST:Natalie_Jane	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:James_Blunt	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Traveler	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:The_Subways	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Partiboi69	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:DeWolff	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Less_Than_Jake	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Brockhoff	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Nico_Moreno	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Birdy	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:A_Projection	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Berq	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Buntspecht	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Mantar	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Gereon_Klug	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Esther_Graf	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Ozzyfied	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Al_Di_Meola	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Liger	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Celtic_Legacy	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Larkin_Poe	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Armageddon_Dildos	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:The_Baboon_Show	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Panic_Shack	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:badchieff	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Tränen	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Heisskalt	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Haujobb	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Angel_Martyr	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Soulbound	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Zahn	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:ITCHY	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Paula_Temple	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Ed_Sheeran	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Lord_of_the_Lost	performs_at_festival	FESTIVAL:Feuertal	2024
+ARTIST:Art_School_Girlfriend	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Duel	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Atreyu	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Corb_Lund	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:UADA	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Goat_Girl	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Anfisa_Letyago	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Tua	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Soft_Loft	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:Dominik_Hartz	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Moyka	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Provinz	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Bokassa	performs_at_festival	FESTIVAL:Elbriot	2024
+ARTIST:Sun_of_the_Sleepless	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Dave_Stewart	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Walls_of_Jericho	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:ELA	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:Flying_Lotus	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Âme	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Cyclone	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Provinz	performs_at_festival	FESTIVAL:Happiness Festival	2024
+ARTIST:Toto	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Les_Bummms_Boys	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2024
+ARTIST:Dymna_Lotva	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Vrîmuot	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Ghøstkid	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Floodlights	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Bukahara	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:The_BossHoss	performs_at_festival	FESTIVAL:Summer in the City	2024
+ARTIST:Kissin’_Dynamite	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:Solar_Fake	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Jason_Derulo	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Mister_Misery	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Arthur_Brown	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Susan_O’Neill	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Asinhell	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Batushka	performs_at_festival	FESTIVAL:Hörnerfest	2024
+ARTIST:Roland_Kaiser	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2024
+ARTIST:Goregonzola	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:NoMBe	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Dropkick_Murphys	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Royal_Blood	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:The_Effect	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Levin_Liam	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Charlotte_de_Witte	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:LOKI	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Loi	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Attacker	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Aaron	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:In_the_Woods…	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Leo_Kaminski	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Trettmann	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Blutengel	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Feine_Sahne_Fischfilet	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Snoozers	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Minuit_Machine	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Tiësto	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:The_Holy	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Crypta	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:ITCHY	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Thy_Art_Is_Murder	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Purple_Disco_Machine	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2024
+ARTIST:Beartooth	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Alienare	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Boris_Brejcha	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:Frozen_Plasma	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Jake_Isaac	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Kalaska	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Grossstadtgeflüster	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Feine_Sahne_Fischfilet	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Haunt	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Lola_Haro	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Merciful_Nuns	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Nervosa	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Eivør	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Hatebreed	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Louis_Tomlinson	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Rival_Sons	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Codefendants	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Neun_Welten	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Astari_Nite	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:The_Murder_Capital	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:FLØRE	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Booka_Shade	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Neck_Deep	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Pentagram	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Trans‐X	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Jorja_Smith	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Drowned	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:The_Vaccines	performs_at_festival	FESTIVAL:Appletree Garden Festival	2024
+ARTIST:JEREMIAS	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Deine_Freunde	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Polyphia	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Ari_Abdul	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:BOUNTY_&_COCOA	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Sido	performs_at_festival	FESTIVAL:SummerJam	2024
+ARTIST:Schiller	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:j:dead	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Thronehammer	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Stina_Holmquist	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Uli_Sailor	performs_at_festival	FESTIVAL:Punk Im Pott	2024
+ARTIST:Alli_Neumann	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Nemoreus	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:Of_Mice_&_Men	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Dreadnought	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2024
+ARTIST:Emilíana_Torrini	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:PA69	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Fastkill	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Michèl_von_Wussow	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Izzy_Lindqwister	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Gossip	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Majan	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:King_Hannah	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Ellice	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Tüsn	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Pashanim	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:GlassEar	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Annie_Taylor	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Elena_Rud	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:Double_Crush_Syndrome	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Nina_Kraviz	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Tränen	performs_at_festival	FESTIVAL:Appletree Garden Festival	2024
+ARTIST:Schmutzki	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Peaches	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Astral_Kompakt	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Hocico	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Cold_Years	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:01099	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2024
+ARTIST:Drei_Meter_Feldweg	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Profet	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Barbara_Schöneberger	performs_at_festival	FESTIVAL:Unser Song Für	2024
+ARTIST:Antilopen_Gang	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Crystal_Murray	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Hansemädchen	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Fateful_Finality	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Marsimoto	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:LUANA	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Zeal_&_Ardor	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Jan_Delay	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:iedereen	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Uche_Yara	performs_at_festival	FESTIVAL:Kimiko Festival	2024
+ARTIST:Heavy_Load	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Susan_O’Neill	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:muff_potter.	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Korn	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Sloper	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Adriatique	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:L.S._Dunes	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Maisie_Peters	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Dool	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:rosmarin	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Hak_Baker	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Take_That	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Hällas	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Isaak_Guderian	performs_at_festival	FESTIVAL:Unser Song Für	2024
+ARTIST:Knife	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Incantation	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Levin_Liam	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Uche_Yara	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Alice_Phoebe_Lou	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Blazing_Eternity	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:311	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Aaron	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Johannes_Stankowski	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Liege_Lord	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Domiziana	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Sharktank	performs_at_festival	FESTIVAL:Noisehausen Festival	2024
+ARTIST:Soft_Loft	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Chapel_of_Disease	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Nitrogods	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2024
+ARTIST:Keane	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Three_Eyes_of_the_Void	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Chapo102	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Dust_Bolt	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Milan_Ring	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Eli_Preiss	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Fatal_Punishment	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Thurnin	performs_at_festival	FESTIVAL:Prophecy Fest	2024
+ARTIST:Wa22ermann	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Joost	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Cameron_Hayes	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Zucchero	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Sven_Väth	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Danko_Jones	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:WARGASM	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Praise_the_Plague	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Pinkshift	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:makko	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Vintage_Culture	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Zoe_Wees	performs_at_festival	FESTIVAL:Tag der deutschen Einheit	2024
+ARTIST:Knife	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:FJAAK	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Max_Mutzke	performs_at_festival	FESTIVAL:Unser Song Für	2024
+ARTIST:Ikkimel	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Wine_Lips	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Scooter	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:frytz	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Antilopen_Gang	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:Crekko	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Thriller	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:AZYR	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Balmog	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Karpe	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:LEILA	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Schreng_Schreng_&_La_La	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Kasi	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:The_Moorings	performs_at_festival	FESTIVAL:Hörnerfest	2024
+ARTIST:Schiller	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:Shirin_David	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:…and_Oceans	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:anaïs	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Marsimoto	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Jayda_G	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:twocolors	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Sam_Paganini	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Bushido	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Herzel	performs_at_festival	FESTIVAL:Taunus Metal Festival	2024
+ARTIST:Ancient	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Decapitated	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Sido	performs_at_festival	FESTIVAL:Happiness Festival	2024
+ARTIST:†††	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Turnstile	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Writhen_Hilt	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Varg	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Tränen	performs_at_festival	FESTIVAL:Highfield Festival	2024
+ARTIST:PaulWetz	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Jitwam	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Steintor_Herrenchor	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Widow	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Solomun	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:siovo	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Rikas	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:Queens_of_the_Stone_Age	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Eisregen	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:NESS	performs_at_festival	FESTIVAL:c/o pop Festival	2024
+ARTIST:King_No-One	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Aviana	performs_at_festival	FESTIVAL:Easter Cross Festival	2024
+ARTIST:Gisbert_zu_Knyphausen	performs_at_festival	FESTIVAL:Heimspiel Knyphausen	2024
+ARTIST:Midnight	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Calvin_Harris	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Pendulum	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Cera_Khin	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Dilla	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Indecent_Behavior	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Crowley	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:James_Holden	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Manntra	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Anfisa_Letyago	performs_at_festival	FESTIVAL:Airbeat One Festival	2024
+ARTIST:CRO	performs_at_festival	FESTIVAL:SUPERBLOOM	2024
+ARTIST:Fifth_Angel	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Dogma_Omega	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2024
+ARTIST:Unearth	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:ICD-10	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Heilung	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Carcass	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Betontod	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Green_Day	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:Kool_&_the_Gang	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Martina_Schwarzmann	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:Fleshsphere	performs_at_festival	FESTIVAL:Schlacht um Otzenhausen	2024
+ARTIST:Noah_Kahan	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Lari_Luke	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:NOFX	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Satan's_Fall	performs_at_festival	FESTIVAL:Storm Crusher Festival	2024
+ARTIST:Mine	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Nornír	performs_at_festival	FESTIVAL:ZappenDuster	2024
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Filmnächte am Elbufer	2024
+ARTIST:Trettmann	performs_at_festival	FESTIVAL:Rock am Ring	2024
+ARTIST:EGYPTIAN_BLUE	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Michael_Schulte	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024
+ARTIST:Sacred_Warrior	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:Rachel_Z	performs_at_festival	FESTIVAL:Leverkusener Jazztage	2024
+ARTIST:Keinemusik	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Zartmann	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Tom_Odell	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Megaloh	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Brant_Bjork_Trio	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Mānbryne	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:Jacques_Palminger	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Blumengarten	performs_at_festival	FESTIVAL:Campus Festival	2024
+ARTIST:Somewhen	performs_at_festival	FESTIVAL:Time Warp Germany	2024
+ARTIST:Metalmind	performs_at_festival	FESTIVAL:Metal im Woid	2024
+ARTIST:Lesson_in_Violence	performs_at_festival	FESTIVAL:Metal Franconia Festival	2024
+ARTIST:Alex_Henry_Foster	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:John_Legend	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Savage_Master	performs_at_festival	FESTIVAL:Keep It True	2024
+ARTIST:V2A	performs_at_festival	FESTIVAL:Nocturnal Culture Night	2024
+ARTIST:Sum_41	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Jaimi_Faulkner	performs_at_festival	FESTIVAL:KUNST!Rasen	2024
+ARTIST:Tränen	performs_at_festival	FESTIVAL:Happiness Festival	2024
+ARTIST:Gorilla_Club	performs_at_festival	FESTIVAL:Orange Blossom Special	2024
+ARTIST:Say_Yes_Dog	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:The_Gaslight_Anthem	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:Deus_Ex_Lumina	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Das_Lumpenpack	performs_at_festival	FESTIVAL:Watt en Schlick	2024
+ARTIST:Sacred_Steel	performs_at_festival	FESTIVAL:No Playback Festival	2024
+ARTIST:Bodyfarm	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:Soft_Loft	performs_at_festival	FESTIVAL:MS Dockville	2024
+ARTIST:The_Tex_Avery_Syndrome	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2024
+ARTIST:FiNCH	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Kelvin_Jones	performs_at_festival	FESTIVAL:Zeltfestival Honberg-Sommer	2024
+ARTIST:The_Great_Machine	performs_at_festival	FESTIVAL:Hoflärm	2024
+ARTIST:Ela	performs_at_festival	FESTIVAL:OBEN OHNE Open Air	2024
+ARTIST:Ost+Front	performs_at_festival	FESTIVAL:Amphi Festival	2024
+ARTIST:Desaster	performs_at_festival	FESTIVAL:De Mortem et Diabolum	2024
+ARTIST:The_Sherlocks	performs_at_festival	FESTIVAL:Stadtpark Open Air	2024
+ARTIST:Sebastian_Hotz	performs_at_festival	FESTIVAL:Hurricane Festival	2024
+ARTIST:John_Grant	performs_at_festival	FESTIVAL:Rolling Stone Beach	2024
+ARTIST:Nina_Chuba	performs_at_festival	FESTIVAL:Citadel Music Festival	2024
+ARTIST:Lena	performs_at_festival	FESTIVAL:Autostadt Sommerfestival	2024

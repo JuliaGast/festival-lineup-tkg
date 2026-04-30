@@ -1,0 +1,144 @@
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Kessel Festival	2025
+ARTIST:Heretoir	performs_at_festival	FESTIVAL:Walpurgisnacht	2025
+ARTIST:Daily_Thompson	performs_at_festival	FESTIVAL:Orange Blossom Special	2025
+ARTIST:Kanaan	performs_at_festival	FESTIVAL:Keep It Low Festival	2025
+ARTIST:Batushka	performs_at_festival	FESTIVAL:Ragnarök Festival	2025
+ARTIST:Lordi	performs_at_festival	FESTIVAL:Metal Frenzy Open Air	2025
+ARTIST:Jupiter_Jones	performs_at_festival	FESTIVAL:Riez Open Air	2025
+ARTIST:Giant_Rooks	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:False_Lefty	performs_at_festival	FESTIVAL:Open Flair	2025
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Wacken Open Air	2025
+ARTIST:MARCH	performs_at_festival	FESTIVAL:Wasted in Jarmen	2025
+ARTIST:Charlotte_de_Witte	performs_at_festival	FESTIVAL:Nature One	2025
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Ruhrpott Rodeo	2025
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Ruhrpott Rodeo	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Jamel rockt den Förster	2025
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Olgas Rock	2025
+ARTIST:Álvaro_Soler	performs_at_festival	FESTIVAL:Zelt Festival Ruhr	2025
+ARTIST:Michèl_von_Wussow	performs_at_festival	FESTIVAL:Stadtpark Open Air	2025
+ARTIST:Friedberg	performs_at_festival	FESTIVAL:Kulturzelt Kassel	2025
+ARTIST:Donots	performs_at_festival	FESTIVAL:Impericon Festival Leipzig	2025
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Punk Im Pott	2025
+ARTIST:Talco	performs_at_festival	FESTIVAL:Sommer am Kiez	2025
+ARTIST:Donots	performs_at_festival	FESTIVAL:Summer Breeze	2025
+ARTIST:Friedberg	performs_at_festival	FESTIVAL:Traumzeit Festival	2025
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Olgas Rock	2025
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Zelt Festival Ruhr	2025
+ARTIST:01099	performs_at_festival	FESTIVAL:Open Flair	2025
+ARTIST:01099	performs_at_festival	FESTIVAL:Das Fest	2025
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Hamburger Kultursommer	2025
+ARTIST:Bulgarian_Cartrader	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Traitor	performs_at_festival	FESTIVAL:FullMetal Osthessen	2025
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Pell Mell Festival	2025
+ARTIST:Desaster	performs_at_festival	FESTIVAL:Dark Easter Metal Meeting	2025
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:The_Bloodstrings	performs_at_festival	FESTIVAL:Kimiko Festival	2025
+ARTIST:Wine_Lips	performs_at_festival	FESTIVAL:Rock Im Wald	2025
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Open Flair	2025
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Pell Mell Festival	2025
+ARTIST:Casino_Blackout	performs_at_festival	FESTIVAL:Vainstream Rockfest	2025
+ARTIST:Captain_Asshole	performs_at_festival	FESTIVAL:Tells Bells Festival	2025
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Rock am Beckenrand	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Green Juice Festival	2025
+ARTIST:Friedberg	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Rock im Park	2025
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Rocco del Schlacko	2025
+ARTIST:01099	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Captain_Asshole	performs_at_festival	FESTIVAL:Free & Easy Festival	2025
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Rock am Beckenrand	2025
+ARTIST:Frog_Bog_Dosenband	performs_at_festival	FESTIVAL:Reload Festival	2025
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Reload Festival	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Open Flair	2025
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:False_Lefty	performs_at_festival	FESTIVAL:Trebur Open Air	2025
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Vainstream Rockfest	2025
+ARTIST:False_Lefty	performs_at_festival	FESTIVAL:Haldern Pop Festival	2025
+ARTIST:Donots	performs_at_festival	FESTIVAL:Watt en Schlick	2025
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Rocco del Schlacko	2025
+ARTIST:Parasite_Inc.	performs_at_festival	FESTIVAL:Free & Easy Festival	2025
+ARTIST:Crypta	performs_at_festival	FESTIVAL:Reload Festival	2025
+ARTIST:Imminence	performs_at_festival	FESTIVAL:Impericon Festival Leipzig	2025
+ARTIST:Mia_Morgan	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Heretoir	performs_at_festival	FESTIVAL:Baden In Blut Open Air	2025
+ARTIST:Wine_Lips	performs_at_festival	FESTIVAL:Desertfest	2025
+ARTIST:Asphyx	performs_at_festival	FESTIVAL:Protzen Open Air	2025
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Maiwoche Osnabrück	2025
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Rock im Park	2025
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Wacken Open Air	2025
+ARTIST:Maël_&_Jonas	performs_at_festival	FESTIVAL:Rocco del Schlacko	2025
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Rock im Park	2025
+ARTIST:Our_Mirage	performs_at_festival	FESTIVAL:Vainstream Rockfest	2025
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:100_Kilo_Herz	performs_at_festival	FESTIVAL:Taubertal Festival	2025
+ARTIST:Adam_Angst	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Talco	performs_at_festival	FESTIVAL:Ruhrpott Rodeo	2025
+ARTIST:CONNY	performs_at_festival	FESTIVAL:Deichbrand Festival	2025
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Highfield Festival	2025
+ARTIST:Friedberg	performs_at_festival	FESTIVAL:Southside Festival	2025
+ARTIST:Mia_Morgan	performs_at_festival	FESTIVAL:Rock im Park	2025
+ARTIST:Amistat	performs_at_festival	FESTIVAL:Tollwood Sommerfestival	2025
+ARTIST:01099	performs_at_festival	FESTIVAL:Rocco del Schlacko	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Hütte Rockt	2025
+ARTIST:Saltatio_Mortis	performs_at_festival	FESTIVAL:Wacken Open Air	2025
+ARTIST:Imminence	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Rock am Ring	2025
+ARTIST:01099	performs_at_festival	FESTIVAL:Southside Festival	2025
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Taubertal Festival	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Hurricane Festival	2025
+ARTIST:Kind_Kaputt	performs_at_festival	FESTIVAL:Bochum Total	2025
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Rocco del Schlacko	2025
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:KUNST!Rasen	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:Donots	performs_at_festival	FESTIVAL:Reload Festival	2025
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Riez Open Air	2025
+ARTIST:Imminence	performs_at_festival	FESTIVAL:Rock im Park	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Deichbrand Festival	2025
+ARTIST:Donots	performs_at_festival	FESTIVAL:Kessel Festival	2025
+ARTIST:Donots	performs_at_festival	FESTIVAL:Rocco del Schlacko	2025
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Kieler Woche	2025
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Rocken am Brocken	2025
+ARTIST:Tramhaus	performs_at_festival	FESTIVAL:Traumzeit Festival	2025
+ARTIST:Desaster	performs_at_festival	FESTIVAL:Riez Open Air	2025
+ARTIST:Traitor	performs_at_festival	FESTIVAL:Neuborn Open Air Festival	2025
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Open Flair	2025
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Noisehausen Festival	2025
+ARTIST:01099	performs_at_festival	FESTIVAL:SUPERBLOOM	2025
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Impericon Festival Leipzig	2025
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Deichbrand Festival	2025
+ARTIST:01099	performs_at_festival	FESTIVAL:Taubertal Festival	2025
+ARTIST:Manntra	performs_at_festival	FESTIVAL:Metal Frenzy Open Air	2025
+ARTIST:Misþyrming	performs_at_festival	FESTIVAL:ZappenDuster	2025
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Open R Festival	2025
+ARTIST:Zucchero	performs_at_festival	FESTIVAL:Jazzopen	2025
+ARTIST:Carcass	performs_at_festival	FESTIVAL:Bautz Festival	2025
+ARTIST:Manntra	performs_at_festival	FESTIVAL:M'era Luna Festival	2025
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Splash!	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Trebur Open Air	2025
+ARTIST:CONNY	performs_at_festival	FESTIVAL:Bochum Total	2025
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Deichbrand Festival	2025
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Hessentag	2025
+ARTIST:Álvaro_Soler	performs_at_festival	FESTIVAL:Kieler Woche	2025
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Taubertal Festival	2025
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Hessentag	2025
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Deichbrand Festival	2025
+ARTIST:Deichkind	performs_at_festival	FESTIVAL:Deichbrand Festival	2025
+ARTIST:Deine_Cousine	performs_at_festival	FESTIVAL:Ulmer Zelt	2025
+ARTIST:Daily_Thompson	performs_at_festival	FESTIVAL:Stemweder Open Air	2025
+ARTIST:Mia_Morgan	performs_at_festival	FESTIVAL:Bochum Total	2025
+ARTIST:Maël_&_Jonas	performs_at_festival	FESTIVAL:Open Flair	2025
+ARTIST:Blackout_Problems	performs_at_festival	FESTIVAL:Southside Festival	2025
+ARTIST:Donots	performs_at_festival	FESTIVAL:Ruhrpott Rodeo	2025
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Deichbrand Festival	2025
+ARTIST:Donots	performs_at_festival	FESTIVAL:Olgas Rock	2025
+ARTIST:Mia_Morgan	performs_at_festival	FESTIVAL:Free & Easy Festival	2025
+ARTIST:Burning_Witches	performs_at_festival	FESTIVAL:Headbangers Open Air	2025
+ARTIST:Álvaro_Soler	performs_at_festival	FESTIVAL:Schlossgrabenfest	2025
+ARTIST:MARCH	performs_at_festival	FESTIVAL:Trebur Open Air	2025
+ARTIST:Burning_Witches	performs_at_festival	FESTIVAL:M.I.S.E.	2025
+ARTIST:CONNY	performs_at_festival	FESTIVAL:Open Flair	2025
+ARTIST:Saltatio_Mortis	performs_at_festival	FESTIVAL:MPS	2025
+ARTIST:Ski_Aggu	performs_at_festival	FESTIVAL:Kessel Festival	2025
+ARTIST:The_Butcher_Sisters	performs_at_festival	FESTIVAL:Traffic Jam Open Air	2025
+ARTIST:Kontra_K	performs_at_festival	FESTIVAL:Kessel Festival	2025
+ARTIST:Montreal	performs_at_festival	FESTIVAL:Vainstream Rockfest	2025
