@@ -8,7 +8,7 @@ Paper currently under review.
 The repository contains two parts: Part 1, The dataset creation, and Part 2,the TKG forecasting experiments.
 For the forecasting experiments, please refer to the folder forecasting and the README therein.
 
-The final datasets can be found at MADATA: https://madata.bib.uni-mannheim.de/822/
+The final datasets can be found at MADATA: https://madata.bib.uni-mannheim.de/822/ with DOI https://doi.org/10.7801/822
 
 The following information is for the creation of the dataset.
 If you directly want to run the Forecasting experiments, you can go to folder forecasting. Since the final datasets are stored on MADATA, you do not need to re-create them.
