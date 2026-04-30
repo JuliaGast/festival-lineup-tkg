@@ -550,10 +550,7 @@ def main(parsed):
     return val_mrr
     
 if __name__ == "__main__":
-    hyperparam_tuning_flag = True
-    # New best MRR on valid set: 0.13401445746421814 with hyperparameters: {'num_walks': 10, 'transition_distr': 'unif', 'rule_lengths': [1], 'window': 30, 'top_k': 10, 'alpha': 1, 'lmbda': 0.01}
-    # New best MRR on valid set: 0.043951574712991714 with hyperparameters: {'num_walks': 10, 'transition_distr': 'exp', 'rule_lengths': [1], 'window': 30, 'top_k': 10, 'alpha': 1, 'lmbda': 0.01}
-
+    hyperparam_tuning_flag = False
     if hyperparam_tuning_flag:
         num_walks_list = [10] # [10, 100, 200]
         transition_distr_list = ['exp'] #, 'unif']
@@ -575,43 +572,43 @@ if __name__ == "__main__":
             'alpha': 1,
             'lmbda': 0.01
         }
-        # # 800 combis
-        # for num_walks in num_walks_list:
-        #     for transition_distr in transition_distr_list:
-        #         for rule_lengths in rule_lengths_list:
-        #             for window in window_list:
-        #                 for top_k in top_k_list:
-        #                     for alpha in alpha_list:
-        #                         for lmbda in lmbda_list:
-        #                             print("------------------------------------------------------------------------------------------------")
-        #                             print(f"Start run with num_walks: {num_walks}, transition_distr: {transition_distr}, rule_lengths: {rule_lengths}, window: {window}, top_k: {top_k}, alpha: {alpha}, lmbda: {lmbda}")
-        #                             parsed['num_walks'] = num_walks
-        #                             parsed['transition_distr'] = transition_distr
-        #                             parsed['rule_lengths'] = rule_lengths
-        #                             parsed['window'] = window
-        #                             parsed['top_k'] = top_k
-        #                             parsed['alpha'] = alpha
-        #                             parsed['lmbda'] = lmbda
 
-        #                             val_mrr = main(parsed)
+        for num_walks in num_walks_list:
+            for transition_distr in transition_distr_list:
+                for rule_lengths in rule_lengths_list:
+                    for window in window_list:
+                        for top_k in top_k_list:
+                            for alpha in alpha_list:
+                                for lmbda in lmbda_list:
+                                    print("------------------------------------------------------------------------------------------------")
+                                    print(f"Start run with num_walks: {num_walks}, transition_distr: {transition_distr}, rule_lengths: {rule_lengths}, window: {window}, top_k: {top_k}, alpha: {alpha}, lmbda: {lmbda}")
+                                    parsed['num_walks'] = num_walks
+                                    parsed['transition_distr'] = transition_distr
+                                    parsed['rule_lengths'] = rule_lengths
+                                    parsed['window'] = window
+                                    parsed['top_k'] = top_k
+                                    parsed['alpha'] = alpha
+                                    parsed['lmbda'] = lmbda
 
-        #                             if val_mrr > best_val_mrr:
-        #                                 best_val_mrr = val_mrr
-        #                                 best_hyperparams = {
-        #                                     'num_walks': num_walks,
-        #                                     'transition_distr': transition_distr,
-        #                                     'rule_lengths': rule_lengths,
-        #                                     'window': window,
-        #                                     'top_k': top_k,
-        #                                     'alpha': alpha,
-        #                                     'lmbda': lmbda
-        #                                 }
-        #                                 print(f"New best MRR on valid set: {best_val_mrr} with hyperparameters: {best_hyperparams}")
+                                    val_mrr = main(parsed)
+
+                                    if val_mrr > best_val_mrr:
+                                        best_val_mrr = val_mrr
+                                        best_hyperparams = {
+                                            'num_walks': num_walks,
+                                            'transition_distr': transition_distr,
+                                            'rule_lengths': rule_lengths,
+                                            'window': window,
+                                            'top_k': top_k,
+                                            'alpha': alpha,
+                                            'lmbda': lmbda
+                                        }
+                                        print(f"New best MRR on valid set: {best_val_mrr} with hyperparameters: {best_hyperparams}")
 
         # now running best config with different rule lengths to see if we can improve the performance further by adding more rules of longer length
         print('_____________________________________________________________________________________')
         print('now running best config with different rule lengths to see if we can improve the performance further by adding more rules of longer length')
-        rule_lengths_list = [[1,2,3]]
+        rule_lengths_list = [[1], [1,2], [1,2,3]]
         for key, value in best_hyperparams.items():
             parsed[key] = value
         for rule_length in rule_lengths_list:
@@ -625,9 +622,6 @@ if __name__ == "__main__":
                 print(f"New best MRR on valid set: {best_val_mrr} with hyperparameters: {best_hyperparams}")
             else:
                 print(f"No improvement with rule length {rule_length}. Best MRR on valid set remains: {best_val_mrr} with hyperparameters: {best_hyperparams}")
-
-
-        pass
 
     else:
 
