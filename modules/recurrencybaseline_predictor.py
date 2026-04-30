@@ -10,6 +10,9 @@ Julia Gastinger, Christian Meilicke, Federico Errica, Timo Sztyler, Anett Schuel
   organization={International Joint Conferences on Artificial Intelligence Organization}
 }
 
+from TGB 2.0 https://github.com/shenyangHuang/TGB
+
+
 """
 import numpy as np
 from collections import Counter

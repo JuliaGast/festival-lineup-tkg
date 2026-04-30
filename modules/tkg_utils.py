@@ -1,3 +1,7 @@
+"""
+code from TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs (NeurIPS 2024 Datasets and Benchmarks Track)
+https://github.com/shenyangHuang/TGB
+"""
 
 from itertools import groupby
 from operator import itemgetter

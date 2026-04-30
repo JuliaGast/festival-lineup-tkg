@@ -1,5 +1,6 @@
 """
 Decoder modules for dynamic link prediction
+from TGB 2.0 https://github.com/shenyangHuang/TGB
 
 """
 
