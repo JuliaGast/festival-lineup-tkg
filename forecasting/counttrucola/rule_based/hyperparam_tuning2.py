@@ -1,0 +1,198 @@
+from main import main
+import argparse
+from options import Options
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--dataset", type=str, default="tkgl-concert", help="dataset name to use for hyperparameter tuning")
+args, unknown_args = parser.parse_known_args()    
+dataset_name = args.dataset  
+
+# depending on the dataset, we set the dataset size -> thepending on the size, we test more or less hyperparameters
+
+
+
+## GROUP1 : params for learning rules
+# 3 + 3  = 6
+RULE_UNSEEN_NEGATIVES = [25, 30, 35, 40] # [1,5,10]
+C_X_COUNT = 3 #[3]
+
+# LEARN_WINDOW_SIZE = [20] #10,20,30,35] #[10, 20, 30, 40, 50]
+# # GROUP 2: f and z rule params
+# # 3*3 = 9
+# # no learning
+# LMBDA_REG = [0, 0.1] #, 0.2, 0.5, 0.7, 0.8, 0.9, 1] # regularization parameter for learning the multi function with linear regression
+
+# Z_RULES_FACTOR= [0, 0.01, 0.1] #,0.5] # Z rules factor
+# F_UNSEEN_NEGATIVES = [0] #[0,  10, 30] # F unseen negatives
+#     # Group 3: C rules and RR_Offset
+# #  3* 2  = 6
+# RR_OFFSET = [-99, -1]  # learn data creation redundancy;
+# RULE_TYPE_C = [True] #, False]  # C rules
+# # Group 4: aggregation functions
+# #2* 3 = 6
+# # no learning
+# aggregation_functions = ['noisyor']
+# num_top_rules = [10, 20, 50]  #[5, 10, 50]
+# AGGREGATION_DECAY = [0.8, 0.5, 0.4] #[1, 0.8, 0.6, 0.5, 0.4, 0.3, 0.2]
+
+# DATAPOINT_THRESHOLD_MULTI = [50, 100] #0,10,20,30,40,50,80,100]
+
+
+options_call = {}
+options_call["DATASET_NAME"] = dataset_name
+
+options_call["RULE_TYPE_F"] = True
+options_call["RULE_TYPE_Z"] = True
+
+options_obj = Options(config_file_name="config-default.yaml")
+options = options_obj.options
+best_config = {}
+best_val_mrr = 0
+# these are the default values to start with. potentially they will be overwritten in the following.
+# group 1
+
+best_config["RULE_UNSEEN_NEGATIVES"] = options["RULE_UNSEEN_NEGATIVES"]
+# best_config["DATAPOINT_THRESHOLD_MULTI"] = options["DATAPOINT_THRESHOLD_MULTI"]
+# if not dataset_name == 'tkgl-monkey':
+#     best_config["LEARN_WINDOW_SIZE"] = options["LEARN_WINDOW_SIZE"]
+# else:
+#     best_config["LEARN_WINDOW_SIZE"] = 10
+# # group 2
+# best_config["Z_RULES_FACTOR"] = options["Z_RULES_FACTOR"]
+# best_config["F_UNSEEN_NEGATIVES"] = options["F_UNSEEN_NEGATIVES"]
+# # group 3
+# best_config["RULE_TYPE_C"] = True
+# best_config["RR_OFFSET"] = options["RR_OFFSET"]
+# # group 4
+# best_config["NUM_TOP_RULES"] = options["NUM_TOP_RULES"]
+# best_config["AGGREGATION_DECAY"] = options["AGGREGATION_DECAY"]
+
+
+options_call.update(best_config)
+
+## Group 1
+print("----------------------Starting hyperparameter tuning for group 1----------------------")
+
+create_learn_data_flag = True
+for unseen_negatives in RULE_UNSEEN_NEGATIVES:
+    options_call["C_X_COUNT"] = C_X_COUNT
+    options_call["RULE_UNSEEN_NEGATIVES"] = unseen_negatives
+    options_call["CREATE_LEARN_DATA_FLAG"] = create_learn_data_flag
+
+    val_mrr = main(options_call=options_call)
+    if ((val_mrr - best_val_mrr) > 0.0001):
+        best_val_mrr = val_mrr
+        best_config["RULE_UNSEEN_NEGATIVES"] = unseen_negatives
+
+    create_learn_data_flag = False  # we do not need to create the learn data again
+
+print("Best configuration after group 1a):"
+      f"{best_config}")
+
+# options_call.update(best_config)
+# for window_size in LEARN_WINDOW_SIZE:  
+#     for lmbda_reg in LMBDA_REG:
+#         for datapoint_threshold_multi in DATAPOINT_THRESHOLD_MULTI:
+#             options_call["DATAPOINT_THRESHOLD_MULTI"] = datapoint_threshold_multi
+#             options_call["LMBDA_REG"] = lmbda_reg
+#             options_call["LEARN_WINDOW_SIZE"] = window_size
+#             options_call["CREATE_LEARN_DATA_FLAG"] = False
+#             if window_size != options["LEARN_WINDOW_SIZE"]:
+#                 print(f"Creating learn data for window size {window_size}")
+#                 options_call["CREATE_LEARN_DATA_FLAG"] = True  # we do not need to create the learn data again
+#             else:
+#                 options_call["CREATE_LEARN_DATA_FLAG"] = False
+#             options_call["LOAD_PARAMS_FLAG"] = False
+
+#             val_mrr = main(options_call=options_call)
+#             if ((val_mrr - best_val_mrr) > 0.0001):
+#                 best_val_mrr = val_mrr
+#                 best_config["LEARN_WINDOW_SIZE"] = window_size
+#                 best_config["LMBDA_REG"] = lmbda_reg
+#                 best_config["DATAPOINT_THRESHOLD_MULTI"] = datapoint_threshold_multi
+
+# print("Best configuration after group 1:"
+#       f"{best_config}")
+
+## Group 2
+# print("----------------------Starting hyperparameter tuning for group 2----------------------")
+# options_call.update(best_config)
+# options_call["CREATE_LEARN_DATA_FLAG"] = False # we have learn data for each window size already
+# options_call["LOAD_PARAMS_FLAG"] = False  # learn rules once more for best config
+
+# for z_rules_factor in Z_RULES_FACTOR:
+#     options_call["Z_RULES_FACTOR"] = z_rules_factor
+#     for f_unseen_negatives in F_UNSEEN_NEGATIVES:
+#         options_call["F_UNSEEN_NEGATIVES"] = f_unseen_negatives
+#         val_mrr = main(options_call=options_call)
+#         if val_mrr <= 0:
+#             print("Warning: validation MRR is 0 or negative, which should not happen. Please check the logs for potential issues.")
+#         if ((val_mrr - best_val_mrr) > 0.0001):
+#             best_val_mrr = val_mrr
+#             best_config["Z_RULES_FACTOR"] = z_rules_factor
+#             best_config["F_UNSEEN_NEGATIVES"] = f_unseen_negatives
+#         options_call["LOAD_PARAMS_FLAG"]  = True
+
+# print("Best configuration after group 2:"
+#       f"{best_config}")
+
+## Group 3 
+# print("----------------------Starting hyperparameter tuning for group 3----------------------")
+# options_call.update(best_config)
+# options_call["LOAD_PARAMS_FLAG"]  = True
+# options_call["CREATE_LEARN_DATA_FLAG"] = False  # we do not need to create the learn data again
+
+# for rule_type_c in RULE_TYPE_C:
+#     options_call["RULE_TYPE_C"] = rule_type_c
+#     for RR_OFFSET_value in RR_OFFSET:
+#         options_call["RR_OFFSET"] = RR_OFFSET_value
+#         if RR_OFFSET_value == options["RR_OFFSET"]: 
+#             options_call["CREATE_LEARN_DATA_FLAG"] = False # learn data has alreadybeen created with this RR_OFFSET
+#         elif rule_type_c == False:
+#             options_call["CREATE_LEARN_DATA_FLAG"] = False # learn data has already been created with c rules
+#         else:
+#             options_call["CREATE_LEARN_DATA_FLAG"] = True
+#         options_call["LOAD_PARAMS_FLAG"]  = False
+#         val_mrr = main(options_call=options_call)
+#         if ((val_mrr - best_val_mrr) > 0.0001):
+#             best_val_mrr = val_mrr
+#             best_config["RULE_TYPE_C"] = rule_type_c
+#             best_config["RR_OFFSET"] = RR_OFFSET_value
+
+print("Best configuration after group 3:"
+      f"{best_config}")
+## Group 4
+print("----------------------Starting hyperparameter tuning for group 4----------------------")
+# options_call.update(best_config)
+# options_call["CREATE_LEARN_DATA_FLAG"] = False
+# options_call["LOAD_PARAMS_FLAG"] = False
+
+# for num_top_rule in num_top_rules:
+#     options_call["NUM_TOP_RULES"] = num_top_rule            
+#     for decay in AGGREGATION_DECAY:
+#         options_call["AGGREGATION_DECAY"] = decay
+#         val_mrr = main(options_call=options_call)
+#         if ((val_mrr - best_val_mrr) > 0.0001):
+#             best_val_mrr = val_mrr
+#             best_config["NUM_TOP_RULES"] = num_top_rule
+#             best_config["AGGREGATION_DECAY"] = decay
+#         options_call["CREATE_LEARN_DATA_FLAG"] = False
+#         options_call["LOAD_PARAMS_FLAG"] = True
+
+print("Best configuration after group 4:"
+      f"{best_config}")
+## done
+
+print("Best configuration found:")
+for key, value in best_config.items():
+    print(f"{key}: {value}")
+print(f"Best validation MRR: {best_val_mrr}")
+
+
+
+print("Running final evaluation on test set with best configuration...")
+options_call.update(best_config)
+options_call["EVAL_TESTSET_FLAG"] = True
+# options_call["CREATE_LEARN_DATA_FLAG"] = True
+options_call["LOAD_PARAMS_FLAG"] = False  
+val_mrr = main(options_call=options_call)
