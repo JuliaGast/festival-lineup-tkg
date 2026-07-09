@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="https://tkgconcertevaluation.org"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="https://tkgconcertevaluation.org">
+    <Prefix name="" IRI="http://www.semanticweb.org/jgasting/ontologies/2026/6/untitled-ontology-2/"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="/MusicBrainzTag"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="//class/Area"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="//class/Festival"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="//class/Label"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="//class/Venue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/class/Artist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/class/ArtistType"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/class/Release"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/hasGenre"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/artistAndRepertoirePositionAt"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/creativePositionAt"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/engineerPositionAt"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/executivePositionAt"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/happensInVenue"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/hasArea"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/hasBeginArea"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/labelFounder"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/locationHasCountry"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/namedAfterArtist"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/namedAfterLabel"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/owner"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/performsAtFestival"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/performsConcertAt"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/personalLabel"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/personalPublisher"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/producerPositionAt"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/recordingContract"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/releasesAlbum"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/releasesEP"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="/relation/venueHasLocation"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="/hasType"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="//type/Group"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/type/Character"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/type/Choir"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/type/Orchestra"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/type/Other"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="/type/Person"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="/class/ArtistType"/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="//type/Group"/>
+            <NamedIndividual IRI="/type/Character"/>
+            <NamedIndividual IRI="/type/Choir"/>
+            <NamedIndividual IRI="/type/Orchestra"/>
+            <NamedIndividual IRI="/type/Other"/>
+            <NamedIndividual IRI="/type/Person"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/hasGenre"/>
+        <Class IRI="/class/Release"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/artistAndRepertoirePositionAt"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/creativePositionAt"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/engineerPositionAt"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/executivePositionAt"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/happensInVenue"/>
+        <Class IRI="//class/Festival"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/hasArea"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/hasBeginArea"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/labelFounder"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/locationHasCountry"/>
+        <Class IRI="//class/Area"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/namedAfterArtist"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/namedAfterLabel"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/owner"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/performsAtFestival"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/performsConcertAt"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/personalLabel"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/personalPublisher"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/producerPositionAt"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/recordingContract"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/releasesAlbum"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/releasesEP"/>
+        <Class IRI="/class/Artist"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="/relation/venueHasLocation"/>
+        <Class IRI="//class/Venue"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/hasGenre"/>
+        <Class IRI="/MusicBrainzTag"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/artistAndRepertoirePositionAt"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/creativePositionAt"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/engineerPositionAt"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/executivePositionAt"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/happensInVenue"/>
+        <Class IRI="//class/Venue"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/hasArea"/>
+        <Class IRI="//class/Area"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/hasBeginArea"/>
+        <Class IRI="//class/Area"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/labelFounder"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/locationHasCountry"/>
+        <Class IRI="//class/Area"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/namedAfterArtist"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/namedAfterLabel"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/owner"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/performsAtFestival"/>
+        <Class IRI="//class/Festival"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/performsConcertAt"/>
+        <Class IRI="//class/Venue"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/personalLabel"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/personalPublisher"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/producerPositionAt"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/recordingContract"/>
+        <Class IRI="//class/Label"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/releasesAlbum"/>
+        <Class IRI="/class/Release"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/releasesEP"/>
+        <Class IRI="/class/Release"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="/relation/venueHasLocation"/>
+        <Class IRI="//class/Area"/>
+    </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="/hasType"/>
+        <Class IRI="/class/Artist"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="/hasType"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi -->
+
