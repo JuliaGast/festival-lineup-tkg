@@ -26,3 +26,5 @@ forecasting/llm/tgb/datasets/old*
 *time2id*
 *PREEXPERIMENT*
 *tgb_backup*
+
+*rdflib*
