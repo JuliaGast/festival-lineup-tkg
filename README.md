@@ -247,6 +247,33 @@ The output is
 * a file tkgl-concertX_edgelist.csv, which is needed as input for running the forecasting and evaluation. this contains also the quadruples in form timestamp,head,tail,relation_t
 * *CAREFUL* the entity strings are not necessarily unique, there might be multiple bands with different musicbrainz ids that have the same string representations, e.g. 'ARTIST:Wolfpack' is shared by multiple nodes: ['15283004-6424-4a79-874e-5333f73b90ce', 'cd488676-5509-4ed5-b988-c220c7fe9c6f']. This is not a problem as long as you use the id representation, i.e. quads.txt or edgelist.csv
 
+# Additional Files
+## Ontology
+Please find the .owl file in this folder, `Ontology_festival.owl`.
+It represents the schema as illustrated in Table 1 of our paper.
+
+
+## RDF
+Please find the rdf-serialization of our dataset (`concert`) in the zip-folder `rdf_files`.
+We use RDF* to represent the temporal information.
+
+The main file is `output.nt`.
+
+In addition to the version that contains all quadruples from our `concert`-tkg, we also add a small version (represented by name "small") with just a few example lines.
+
+Example:
+
+````
+<< <https://musicbrainz.org/artist/b1355867-16a1-4863-ae3b-6a8be122eaaa> <https://tkgconcertevaluation.org/relation/performsAtFestival> <https://www.setlist.fm/festival/british-rock-meeting-43d69f3f> >> <https://tkgconcertevaluation.org/relation/year> "1971"^^<http://www.w3.org/2001/XMLSchema#Year> .
+
+````
+
+We add another file `output_labels.nt` with the label information for each node, which maps the ids to strings, such as musicbrainz artist ids to the band names, for convenience, e.g.
+```
+<https://musicbrainz.org/artist/d15721d8-56b4-453d-b506-fc915b14cba2> <http://www.w3.org/2000/01/rdf-schema#label> "The_Black_Keys"^^<http://www.w3.org/2001/XMLSchema#string> .
+```
+
+
 
 
 
