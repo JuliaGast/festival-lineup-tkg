@@ -227,9 +227,13 @@ def include_festival_quads_method(data, quads, mbid_to_string, include_happens_i
 
             if add_venue and include_happens_in:    
                 venue = edition['venue']["venue_id"].replace(", ", "_").replace(" ", "_").replace(",", "_") # remove commas and spaces to avoid issues in csv
+                venue = 'venue_'+venue
 
                 if not venue in mbid_to_string:
-                        mbid_to_string[venue] = 'VENUE:' + edition['venue']["venue_name"].replace(", ", "_")
+                        if edition['venue']["venue_name"]:
+                            mbid_to_string[venue]= 'VENUE:' + edition['venue']["venue_name"].replace(", ", "_").replace(" ", "_").replace(",", "_")
+                        else:
+                            mbid_to_string[venue]= 'VENUE:' + venue.replace(", ", "_").replace(" ", "_").replace(",", "_")
                 if venue is not None:
                     if include_venue_area and add_venue:
                         venue_area, venue_country = get_festival_venue_area(edition['venue']['venue_url'], country)  
@@ -249,7 +253,7 @@ def include_festival_quads_method(data, quads, mbid_to_string, include_happens_i
                     current += timedelta(days=1)
 
                 for date in date_list:
-                    venue = edition['venue']["venue_id"].replace(", ", "_").replace(" ", "_").replace(",", "_") # remove commas and spaces to avoid issues in csv
+                    # venue = edition['venue']["venue_id"].replace(", ", "_").replace(" ", "_").replace(",", "_") # remove commas and spaces to avoid issues in csv
                     quads.append((festival_mbid, "happens_in_venue", venue, date))
                     # quads_strings.append((mbid_to_string[festival_mbid], "happens_in_venue", mbid_to_string[venue], date))
                     if add_venue_area:
@@ -323,9 +327,12 @@ def include_concert_quads_method(artist_data, quads, metainfos, mbid_to_string, 
                 continue
 
             for event_key, event in artist_dict["events"].items():
-                if event["venue_mbdid"] not in large_venues:
+                venue_id = event["venue_mbdid"]
+                
+                if venue_id not in large_venues:
                     event_not_added_counter +=1
                     continue
+                venue_id = 'venue_'+venue_id
                 event_date = event['event_date']
                 event_date =  datetime.strptime(event_date, "%d-%m-%Y")
                 event_date = event_date.strftime("%Y-%m-%dT00:00:00")
@@ -340,10 +347,15 @@ def include_concert_quads_method(artist_data, quads, metainfos, mbid_to_string, 
                 
                 if include_performs_concert_at:
                     event_added_counter +=1
-                    if not event["venue_mbdid"] in mbid_to_string:
-                        mbid_to_string[event["venue_mbdid"]]= 'VENUE:' + event["venue_name"].replace(", ", "_").replace(" ", "_").replace(",", "_").replace(";", "_")
-                    quads.append((artist_mbid, "performs_concert_at", event["venue_mbdid"], event_date))
-                    # quads_strings.append((mbid_to_string[artist_mbid], "performs_concert_at", mbid_to_string[event["venue_mbdid"]], event_date))
+                    venue_id = event["venue_mbdid"]
+                    venue_id = 'venue_'+venue_id
+                    if not venue_id in mbid_to_string:
+                        if event["venue_name"]:
+                            mbid_to_string[venue_id]= 'VENUE:' + event["venue_name"].replace(", ", "_").replace(" ", "_").replace(",", "_").replace(";", "_")
+                        else:
+                            mbid_to_string[venue_id]= 'VENUE:' + venue_id.replace(", ", "_").replace(" ", "_").replace(",", "_").replace(";", "_")
+                    quads.append((artist_mbid, "performs_concert_at", venue_id, event_date))
+                    # quads_strings.append((mbid_to_string[artist_mbid], "performs_concert_at", mbid_to_string[venue_id], event_date))
 
                     if include_venue_area:
                         venue_area = venue_area.replace(", ", "_").replace(" ", "_").replace(",", "_") # remove commas and spaces to avoid issues in csv
@@ -353,11 +365,11 @@ def include_concert_quads_method(artist_data, quads, metainfos, mbid_to_string, 
                         if not venue_country in mbid_to_string:
                             mbid_to_string[venue_country] = 'AREA:' + venue_country.replace(", ", "_").replace(" ", "_").replace(",", "_") # remove commas and spaces to avoid issues in csv
 
-                        quads.append((event["venue_mbdid"], "venue_has_location", venue_area, event_date))
-                        # quads_strings.append((mbid_to_string[event["venue_mbdid"]], "venue_has_location", mbid_to_string[venue_area], event_date))
-                        quads.append((venue_area, "location_has_country", venue_country, event_date))
-                        # quads_strings.append((mbid_to_string[venue_area], "location_has_country", mbid_to_string[venue_country], event_date))
 
+                        quads.append((venue_id, "venue_has_location", venue_area, event_date))
+                        # quads_strings.append((mbid_to_string[venue_id], "venue_has_location", mbid_to_string[venue_area], event_date))
+                        quads.append((venue_area, "location_has_country", venue_country, event_date))
+                        
                         if include_triangles:
                             quads.append((artist_mbid, "performs_concert_in_location", venue_area, event_date))
                             quads.append((artist_mbid, "performs_concert_in_country", venue_country, event_date))
