@@ -47,9 +47,9 @@ DATA_URL_DICT = {
     "tkgl-icews18": "https://drive.google.com/uc?id=1FPQE014gZ9n-yNicMu4iKosMv-54R17L&export=download", # added by counttrucola authors
     "tkgl-wikiold": "https://drive.google.com/uc?id=1V-oO6usWiVzkyiDRfD87Zj-K9sup1QmP&export=download", # added by counttrucola authors
     "tkgl-gdelt": "https://drive.google.com/uc?id=1QPNJZhu9GqjubCsFdoCt26FFls3X3zfW&export=download", # added by counttrucola authors
-    "tkgl-concert": "https://madata.bib.uni-mannheim.de/822/2/tkgl_concert.zip", # added for festival paper
-    "tkgl-concertperformanceonly": "https://madata.bib.uni-mannheim.de/822/1/tkgl_concertperformanceonly.zip", # added for festival paper
-    "tkgl-concertwithshortcuts": "https://madata.bib.uni-mannheim.de/822/3/tkgl_concertwithshortcuts.zip", # added for festival paper
+    "tkgl-concert": "https://madata.bib.uni-mannheim.de/822/6/tkgl_concert.zip", # added for festival paper
+    "tkgl-concertperformanceonly": "https://madata.bib.uni-mannheim.de/822/1/tkgl_concertperformanceonly.zip", # added for festival paper 
+    "tkgl-concertwithshortcuts": "https://madata.bib.uni-mannheim.de/822/7/tkgl_concertwithshortcuts.zip", # added for festival paper
     "tkgl-muffi": "https://drive.google.com/uc?id=149SGipvBmLAqUPxl4WzfJ6KT9S0xX123&export=download", # added by counttrucola authors
     "tkgl-mini": "https://drive.google.com/uc?id=149SGipvBmLAqUPxl4WzfJ6KT9S0xX123&export=download", # added by counttrucola authors
     "tkgl-monkey": "https://drive.google.com/uc?id=1SsOEpbUqA_W4O0b2gBhLLHm1xQfo4YTh&export=download" , # added by counttrucola authors
