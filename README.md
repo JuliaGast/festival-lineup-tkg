@@ -1,7 +1,6 @@
 # Code for the paper: A Temporal Knowledge Graph for Music Festival Lineup Forecasting
 Julia Gastinger, Thilo Dieing, Christian Meilicke, Heiner Stuckenschmidt
 
-email: first.last[at]uni-mannheim.de
 
 Paper currently under review.
 
