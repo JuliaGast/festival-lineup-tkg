@@ -1,8 +1,9 @@
 # Code for the paper: A Temporal Knowledge Graph for Music Festival Lineup Forecasting
 Julia Gastinger, Thilo Dieing, Christian Meilicke, Heiner Stuckenschmidt
 
+Accepted to 11th Workshop on Automated Knowledge Base Construction (AKBC) 2026
 
-Paper currently under review.
+Paper: [https://arxiv.org/abs/2609.24467](https://arxiv.org/abs/2609.24467)
 
 The repository contains two parts: Part 1, The dataset creation, and Part 2,the TKG forecasting experiments.
 For the forecasting experiments, please refer to the folder forecasting and the README therein.
